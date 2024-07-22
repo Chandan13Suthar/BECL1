@@ -1,0 +1,7 @@
+<svg version="1.2" baseProfile="tiny" id="EdgeSVG_LuviO" x="0px" y="0px" width="70.296px" height="293.021px" viewBox="0 0 70.296 293.021" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="0" y1="146.5107" x2="70.2959" y2="146.5107">
+    <stop offset="0" style="stop-color:#000000;stop-opacity:0.5"/>
+    <stop offset="1" style="stop-color:#000000;stop-opacity:0.5"/>
+  </linearGradient>
+  <path fill="url(#SVGID_1_)" d="M70.296,286.423v6.599H0v-6.599h15.598l0-18.825l1.071-2.819h0.801V9.009&#xD;&#xA;&#x9;&#x9;c-0.161-0.971-0.7-1.195-1.874-1.598c-0.981-0.337-2.262-0.777-2.958-2.122c-0.116,0.013-0.231,0.02-0.345,0.02&#xD;&#xA;&#x9;&#x9;c-0.83,0-1.515-0.372-1.791-0.97c-0.369-0.803-0.214-1.993,0.795-2.713C11.981,1.141,13.581,0,15.927,0h36.372&#xD;&#xA;&#x9;&#x9;c1.197,0,2.171,0.972,2.171,2.167c0,1.016-0.702,1.871-1.646,2.106l0.067,260.506h0.845l0.961,2.839v18.805L70.296,286.423z"/>
+</svg>

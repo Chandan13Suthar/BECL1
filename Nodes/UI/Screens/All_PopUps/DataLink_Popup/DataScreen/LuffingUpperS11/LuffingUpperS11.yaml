@@ -1,0 +1,425 @@
+Name: LuffingUpperS11
+Type: FolderType
+Children:
+- Name: Status1
+  Id: g=b054633bbf7516471db55413ccbd579c
+  Supertype: Status
+  ReferenceType: HasComponent
+  Children:
+  - Name: Background
+    Type: Rectangle
+    Children:
+    - Name: Rectangle3
+      Type: Rectangle
+      Children:
+      - Name: Rectangle1
+        Type: Rectangle
+        Children:
+        - Name: Label1
+          Type: Label
+      - Name: Button1
+        Type: Button
+        Children:
+        - Name: MouseClickEventHandler1
+          Type: EventHandler
+          Children:
+          - Name: ListenEventType
+            Type: PropertyType
+            DataType: NodeId
+            Value: "/Types/EventTypes/BaseEventType/MouseEvent/MouseClickEvent"
+          - Name: MethodsToCall
+            Type: BaseObjectType
+            Children:
+            - Name: MethodContainer1
+              Type: BaseObjectType
+              Children:
+              - Name: ns=2;ObjectPointer
+                Type: NodePointer
+                DataType: NodeId
+                Value: "/Objects/Commands/UICommands"
+                Children:
+                - Name: Kind
+                  Type: PropertyType
+                  DataType: NodeId
+                  Value: "/Types/ObjectTypes/BaseObjectType"
+              - Name: ns=2;Method
+                Type: BaseDataVariableType
+                DataType: String
+                Value: "OpenDialog"
+              - Name: InputArguments
+                Type: BaseObjectType
+                Children:
+                - Name: Dialog
+                  Type: BaseDataVariableType
+                  DataType: NodeId
+                  Description: {"NamespaceIndex":3,"TextId":"OpenDialogDialogDescription"}
+                  Value: "/Objects/BECL1/UI/Screens/All PopUps/DataLink Popup/Luffing_Limit_Button"
+                - Name: AliasNode
+                  Type: BaseDataVariableType
+                  DataType: NodeId
+                  Description: {"NamespaceIndex":3,"TextId":"OpenDialogAliasNodeDescription"}
+                  ValueRank: ScalarOrOneDimension
+                  Value: {"IdType":0,"Id":0,"Namespace":-1}
+                - Name: ParentItem
+                  Type: BaseDataVariableType
+                  DataType: NodeId
+                  Description: {"NamespaceIndex":3,"TextId":"OpenDialogParentItemDescription"}
+                  Value: {"IdType":0,"Id":0,"Namespace":-1}
+                  Children:
+                  - Name: DynamicLink
+                    Type: DynamicLink
+                    DataType: NodePath
+                    Value: "../../../../..@NodeId"
+              - Name: OutputArguments
+                Type: BaseObjectType
+                Children:
+                - Name: DialogNodeId
+                  Type: BaseDataVariableType
+                  DataType: NodeId
+                  Description: {"NamespaceIndex":3,"TextId":"OpenDialogDialogNodeIdDescription"}
+                  Value: {"IdType":0,"Id":0,"Namespace":-1}
+          - Name: EventArguments
+            Type: MouseClickEvent
+            Children:
+            - Name: EventId
+              Type: PropertyType
+              DataType: ByteString
+              Value: ""
+            - Name: EventType
+              Type: PropertyType
+              DataType: NodeId
+              Value: {"IdType":0,"Id":0,"Namespace":-1}
+            - Name: SourceNode
+              Type: PropertyType
+              DataType: NodeId
+              Value: {"IdType":0,"Id":0,"Namespace":-1}
+            - Name: SourceName
+              Type: PropertyType
+              DataType: String
+              Value: ""
+            - Name: Time
+              Type: PropertyType
+              DataType: UtcTime
+              Value: "1601-01-01T00:00:00.0000000"
+            - Name: ReceiveTime
+              Type: PropertyType
+              DataType: UtcTime
+              Value: "1601-01-01T00:00:00.0000000"
+            - Name: Message
+              Type: PropertyType
+              DataType: LocalizedText
+              Value: {"NamespaceIndex":-1,"LocaleId":"","Text":""}
+            - Name: Severity
+              Type: PropertyType
+              DataType: UInt16
+              Value: 0
+      - Name: Label1
+        Type: TextBox
+        Children:
+        - Name: Text
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"LocaleId":"en-US","Text":"####"}
+      - Name: Label2
+        Type: Label
+      - Name: Label3
+        Type: Label
+      - Name: Label4
+        Type: TextBox
+        Children:
+        - Name: Text
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"LocaleId":"en-US","Text":"####"}
+      - Name: Label5
+        Type: TextBox
+        Children:
+        - Name: Text
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"LocaleId":"en-US","Text":"####"}
+      - Name: Label6
+        Type: TextBox
+        Children:
+        - Name: Text
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"LocaleId":"en-US","Text":"####"}
+      - Name: Label7
+        Type: TextBox
+        Children:
+        - Name: Text
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"LocaleId":"en-US","Text":"####"}
+      - Name: Label8
+        Type: TextBox
+        Children:
+        - Name: Text
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"LocaleId":"en-US","Text":"####"}
+      - Name: Label9
+        Type: TextBox
+        Children:
+        - Name: Text
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"LocaleId":"en-US","Text":"####"}
+      - Name: Label10
+        Type: TextBox
+        Children:
+        - Name: Text
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"LocaleId":"en-US","Text":"####"}
+      - Name: Label11
+        Type: Label
+      - Name: Label12
+        Type: Label
+      - Name: Label13
+        Type: Label
+      - Name: Label14
+        Type: Label
+      - Name: Label22
+        Type: Label
+      - Name: Rectangle2
+        Type: Rectangle
+      - Name: Label15
+        Type: Label
+      - Name: Rectangle3
+        Type: Rectangle
+      - Name: Label16
+        Type: Label
+      - Name: Rectangle4
+        Type: Rectangle
+      - Name: Label17
+        Type: Label
+      - Name: Rectangle5
+        Type: Rectangle
+      - Name: Label18
+        Type: Label
+      - Name: Rectangle6
+        Type: Rectangle
+      - Name: Label19
+        Type: Label
+      - Name: Rectangle7
+        Type: Rectangle
+      - Name: Label20
+        Type: Label
+      - Name: Rectangle8
+        Type: Rectangle
+- Name: Sync1
+  Id: g=deb6206bed0b27c4677345f311abfbaa
+  Supertype: Sync
+  ReferenceType: HasComponent
+  Children:
+  - Name: Background
+    Type: Rectangle
+    Children:
+    - Name: Rectangle3
+      Type: Rectangle
+      Children:
+      - Name: Rectangle1
+        Type: Rectangle
+        Children:
+        - Name: Label1
+          Type: Label
+      - Name: Label1
+        Type: TextBox
+        Children:
+        - Name: Text
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"LocaleId":"en-US","Text":"####"}
+      - Name: Label2
+        Type: Label
+      - Name: Label3
+        Type: Label
+      - Name: Label4
+        Type: TextBox
+        Children:
+        - Name: Text
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"LocaleId":"en-US","Text":"####"}
+      - Name: Label5
+        Type: TextBox
+        Children:
+        - Name: Text
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"LocaleId":"en-US","Text":"####"}
+      - Name: Label6
+        Type: TextBox
+        Children:
+        - Name: Text
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"LocaleId":"en-US","Text":"####"}
+      - Name: Label7
+        Type: TextBox
+        Children:
+        - Name: Text
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"LocaleId":"en-US","Text":"####"}
+      - Name: Label8
+        Type: TextBox
+        Children:
+        - Name: Text
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"LocaleId":"en-US","Text":"####"}
+      - Name: Label9
+        Type: TextBox
+        Children:
+        - Name: Text
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"LocaleId":"en-US","Text":"####"}
+      - Name: Label10
+        Type: TextBox
+        Children:
+        - Name: Text
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"LocaleId":"en-US","Text":"####"}
+      - Name: Label11
+        Type: Label
+      - Name: Label12
+        Type: Label
+      - Name: Label13
+        Type: Label
+      - Name: Label14
+        Type: Label
+      - Name: Label15
+        Type: Label
+      - Name: Checkbox1
+        Type: CheckBox
+        Children:
+        - Name: Checked
+          Type: BaseDataVariableType
+          DataType: Boolean
+          Value: false
+      - Name: Checkbox2
+        Type: CheckBox
+        Children:
+        - Name: Checked
+          Type: BaseDataVariableType
+          DataType: Boolean
+          Value: false
+      - Name: Checkbox3
+        Type: CheckBox
+        Children:
+        - Name: Checked
+          Type: BaseDataVariableType
+          DataType: Boolean
+          Value: false
+      - Name: Checkbox4
+        Type: CheckBox
+        Children:
+        - Name: Checked
+          Type: BaseDataVariableType
+          DataType: Boolean
+          Value: false
+    - Name: Rectangle1
+      Type: Rectangle
+      Children:
+      - Name: Rectangle1
+        Type: Rectangle
+        Children:
+        - Name: Label1
+          Type: Label
+      - Name: Label6
+        Type: TextBox
+        Children:
+        - Name: Text
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"LocaleId":"en-US","Text":"####"}
+      - Name: Button1
+        Type: Button
+- Name: Config1
+  Id: g=fed02b25f7df548bd379d9db9efe39bc
+  Supertype: Config
+  ReferenceType: HasComponent
+  Children:
+  - Name: Background
+    Type: Rectangle
+    Children:
+    - Name: Rectangle3
+      Type: Rectangle
+      Children:
+      - Name: Rectangle1
+        Type: Rectangle
+        Children:
+        - Name: Label1
+          Type: Label
+      - Name: Checkbox1
+        Type: CheckBox
+        Children:
+        - Name: Checked
+          Type: BaseDataVariableType
+          DataType: Boolean
+          Value: false
+      - Name: Checkbox2
+        Type: CheckBox
+        Children:
+        - Name: Checked
+          Type: BaseDataVariableType
+          DataType: Boolean
+          Value: false
+      - Name: Checkbox3
+        Type: CheckBox
+        Children:
+        - Name: Checked
+          Type: BaseDataVariableType
+          DataType: Boolean
+          Value: false
+      - Name: Checkbox4
+        Type: CheckBox
+        Children:
+        - Name: Checked
+          Type: BaseDataVariableType
+          DataType: Boolean
+          Value: false
+    - Name: Rectangle1
+      Type: Rectangle
+      Children:
+      - Name: Rectangle1
+        Type: Rectangle
+        Children:
+        - Name: Label1
+          Type: Label
+      - Name: Label6
+        Type: TextBox
+        Children:
+        - Name: Text
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"LocaleId":"en-US","Text":"####"}
+      - Name: Label1
+        Type: Label
+      - Name: Label2
+        Type: Label
+      - Name: Label3
+        Type: Label
+      - Name: Label4
+        Type: Label
+      - Name: Label5
+        Type: TextBox
+        Children:
+        - Name: Text
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"LocaleId":"en-US","Text":"####"}
+      - Name: Label7
+        Type: Label
+      - Name: Label8
+        Type: TextBox
+        Children:
+        - Name: Text
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"LocaleId":"en-US","Text":"####"}

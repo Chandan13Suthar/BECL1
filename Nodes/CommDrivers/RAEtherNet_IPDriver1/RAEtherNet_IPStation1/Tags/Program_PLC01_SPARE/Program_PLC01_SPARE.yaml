@@ -1,0 +1,5590 @@
+Name: 'Program:PLC01_SPARE'
+Type: FolderType
+Children:
+- Name: PLC01_ALARM01
+  Type: AsysE_Alm
+  DataType: AsysE_Alm
+  Children:
+  - Name: EnableIn
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM01.EnableIn"
+  - Name: EnableOut
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM01.EnableOut"
+  - Name: SIG
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM01.SIG"
+  - Name: PWR
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM01.PWR"
+  - Name: EN_L
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM01.EN_L"
+  - Name: EN_H
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM01.EN_H"
+  - Name: INTL
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM01.INTL"
+  - Name: OK
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM01.OK"
+  - Name: AL_L
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM01.AL_L"
+  - Name: AL_H
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM01.AL_H"
+  - Name: WARN_L
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM01.WARN_L"
+  - Name: WARN_H
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM01.WARN_H"
+- Name: PLC01_ALARM02
+  Type: AsysE_Alm
+  DataType: AsysE_Alm
+  Children:
+  - Name: EnableIn
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM02.EnableIn"
+  - Name: EnableOut
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM02.EnableOut"
+  - Name: SIG
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM02.SIG"
+  - Name: PWR
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM02.PWR"
+  - Name: EN_L
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM02.EN_L"
+  - Name: EN_H
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM02.EN_H"
+  - Name: INTL
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM02.INTL"
+  - Name: OK
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM02.OK"
+  - Name: AL_L
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM02.AL_L"
+  - Name: AL_H
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM02.AL_H"
+  - Name: WARN_L
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM02.WARN_L"
+  - Name: WARN_H
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM02.WARN_H"
+- Name: PLC01_ALARM03
+  Type: AsysE_Alm
+  DataType: AsysE_Alm
+  Children:
+  - Name: EnableIn
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM03.EnableIn"
+  - Name: EnableOut
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM03.EnableOut"
+  - Name: SIG
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM03.SIG"
+  - Name: PWR
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM03.PWR"
+  - Name: EN_L
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM03.EN_L"
+  - Name: EN_H
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM03.EN_H"
+  - Name: INTL
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM03.INTL"
+  - Name: OK
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM03.OK"
+  - Name: AL_L
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM03.AL_L"
+  - Name: AL_H
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM03.AL_H"
+  - Name: WARN_L
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM03.WARN_L"
+  - Name: WARN_H
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM03.WARN_H"
+- Name: PLC01_ALARM04
+  Type: AsysE_Alm
+  DataType: AsysE_Alm
+  Children:
+  - Name: EnableIn
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM04.EnableIn"
+  - Name: EnableOut
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM04.EnableOut"
+  - Name: SIG
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM04.SIG"
+  - Name: PWR
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM04.PWR"
+  - Name: EN_L
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM04.EN_L"
+  - Name: EN_H
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM04.EN_H"
+  - Name: INTL
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM04.INTL"
+  - Name: OK
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM04.OK"
+  - Name: AL_L
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM04.AL_L"
+  - Name: AL_H
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM04.AL_H"
+  - Name: WARN_L
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM04.WARN_L"
+  - Name: WARN_H
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM04.WARN_H"
+- Name: PLC01_ALARM05
+  Type: AsysE_Alm
+  DataType: AsysE_Alm
+  Children:
+  - Name: EnableIn
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM05.EnableIn"
+  - Name: EnableOut
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM05.EnableOut"
+  - Name: SIG
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM05.SIG"
+  - Name: PWR
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM05.PWR"
+  - Name: EN_L
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM05.EN_L"
+  - Name: EN_H
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM05.EN_H"
+  - Name: INTL
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM05.INTL"
+  - Name: OK
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM05.OK"
+  - Name: AL_L
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM05.AL_L"
+  - Name: AL_H
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM05.AL_H"
+  - Name: WARN_L
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM05.WARN_L"
+  - Name: WARN_H
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM05.WARN_H"
+- Name: PLC01_ALARM06
+  Type: AsysE_Alm
+  DataType: AsysE_Alm
+  Children:
+  - Name: EnableIn
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM06.EnableIn"
+  - Name: EnableOut
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM06.EnableOut"
+  - Name: SIG
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM06.SIG"
+  - Name: PWR
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM06.PWR"
+  - Name: EN_L
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM06.EN_L"
+  - Name: EN_H
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM06.EN_H"
+  - Name: INTL
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM06.INTL"
+  - Name: OK
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM06.OK"
+  - Name: AL_L
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM06.AL_L"
+  - Name: AL_H
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM06.AL_H"
+  - Name: WARN_L
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM06.WARN_L"
+  - Name: WARN_H
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM06.WARN_H"
+- Name: PLC01_ALARM07
+  Type: AsysE_Alm
+  DataType: AsysE_Alm
+  Children:
+  - Name: EnableIn
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM07.EnableIn"
+  - Name: EnableOut
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM07.EnableOut"
+  - Name: SIG
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM07.SIG"
+  - Name: PWR
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM07.PWR"
+  - Name: EN_L
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM07.EN_L"
+  - Name: EN_H
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM07.EN_H"
+  - Name: INTL
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM07.INTL"
+  - Name: OK
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM07.OK"
+  - Name: AL_L
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM07.AL_L"
+  - Name: AL_H
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM07.AL_H"
+  - Name: WARN_L
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM07.WARN_L"
+  - Name: WARN_H
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM07.WARN_H"
+- Name: PLC01_ALARM08
+  Type: AsysE_Alm
+  DataType: AsysE_Alm
+  Children:
+  - Name: EnableIn
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM08.EnableIn"
+  - Name: EnableOut
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM08.EnableOut"
+  - Name: SIG
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM08.SIG"
+  - Name: PWR
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM08.PWR"
+  - Name: EN_L
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM08.EN_L"
+  - Name: EN_H
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM08.EN_H"
+  - Name: INTL
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM08.INTL"
+  - Name: OK
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM08.OK"
+  - Name: AL_L
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM08.AL_L"
+  - Name: AL_H
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM08.AL_H"
+  - Name: WARN_L
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM08.WARN_L"
+  - Name: WARN_H
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM08.WARN_H"
+- Name: PLC01_ALARM09
+  Type: AsysE_Alm
+  DataType: AsysE_Alm
+  Children:
+  - Name: EnableIn
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM09.EnableIn"
+  - Name: EnableOut
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM09.EnableOut"
+  - Name: SIG
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM09.SIG"
+  - Name: PWR
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM09.PWR"
+  - Name: EN_L
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM09.EN_L"
+  - Name: EN_H
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM09.EN_H"
+  - Name: INTL
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM09.INTL"
+  - Name: OK
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM09.OK"
+  - Name: AL_L
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM09.AL_L"
+  - Name: AL_H
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM09.AL_H"
+  - Name: WARN_L
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM09.WARN_L"
+  - Name: WARN_H
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM09.WARN_H"
+- Name: PLC01_ALARM10
+  Type: AsysE_Alm
+  DataType: AsysE_Alm
+  Children:
+  - Name: EnableIn
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM10.EnableIn"
+  - Name: EnableOut
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM10.EnableOut"
+  - Name: SIG
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM10.SIG"
+  - Name: PWR
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM10.PWR"
+  - Name: EN_L
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM10.EN_L"
+  - Name: EN_H
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM10.EN_H"
+  - Name: INTL
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM10.INTL"
+  - Name: OK
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM10.OK"
+  - Name: AL_L
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM10.AL_L"
+  - Name: AL_H
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM10.AL_H"
+  - Name: WARN_L
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM10.WARN_L"
+  - Name: WARN_H
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ALARM10.WARN_H"
+- Name: PLC01_ANALOG01
+  Type: AsysAI
+  DataType: AsysAI
+  Children:
+  - Name: EnableIn
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ANALOG01.EnableIn"
+  - Name: EnableOut
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ANALOG01.EnableOut"
+  - Name: PIW
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ANALOG01.PIW"
+  - Name: PIW_NORM
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ANALOG01.PIW_NORM"
+  - Name: U_RANGE
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ANALOG01.U_RANGE"
+  - Name: O_RANGE
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ANALOG01.O_RANGE"
+  - Name: SIG_FAULT
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ANALOG01.SIG_FAULT"
+  - Name: ECS
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ANALOG01.ECS"
+  - Name: AL_EN
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ANALOG01.AL_EN"
+  - Name: ALMSG_EN
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ANALOG01.ALMSG_EN"
+  - Name: ALMSG_GRP
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ANALOG01.ALMSG_GRP"
+  - Name: AL_HH
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ANALOG01.AL_HH"
+  - Name: AL_H
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ANALOG01.AL_H"
+  - Name: AL_L
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ANALOG01.AL_L"
+  - Name: AL_LL
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ANALOG01.AL_LL"
+  - Name: AL_OK
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ANALOG01.AL_OK"
+  - Name: LIMH
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ANALOG01.LIMH"
+  - Name: LIML
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ANALOG01.LIML"
+  - Name: GR_P
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ANALOG01.GR_P"
+  - Name: GR_N
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ANALOG01.GR_N"
+  - Name: X_SC_HI
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ANALOG01.X_SC_HI"
+  - Name: X_SC_LO
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ANALOG01.X_SC_LO"
+  - Name: X_HH
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ANALOG01.X_HH"
+  - Name: X_H
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ANALOG01.X_H"
+  - Name: X_L
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ANALOG01.X_L"
+  - Name: X_LL
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ANALOG01.X_LL"
+  - Name: X_SCAL
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ANALOG01.X_SCAL"
+  - Name: X_PIDV
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ANALOG01.X_PIDV"
+- Name: PLC01_ANALOG02
+  Type: AsysAI
+  DataType: AsysAI
+  Children:
+  - Name: EnableIn
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ANALOG02.EnableIn"
+  - Name: EnableOut
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ANALOG02.EnableOut"
+  - Name: PIW
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ANALOG02.PIW"
+  - Name: PIW_NORM
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ANALOG02.PIW_NORM"
+  - Name: U_RANGE
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ANALOG02.U_RANGE"
+  - Name: O_RANGE
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ANALOG02.O_RANGE"
+  - Name: SIG_FAULT
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ANALOG02.SIG_FAULT"
+  - Name: ECS
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ANALOG02.ECS"
+  - Name: AL_EN
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ANALOG02.AL_EN"
+  - Name: ALMSG_EN
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ANALOG02.ALMSG_EN"
+  - Name: ALMSG_GRP
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ANALOG02.ALMSG_GRP"
+  - Name: AL_HH
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ANALOG02.AL_HH"
+  - Name: AL_H
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ANALOG02.AL_H"
+  - Name: AL_L
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ANALOG02.AL_L"
+  - Name: AL_LL
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ANALOG02.AL_LL"
+  - Name: AL_OK
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ANALOG02.AL_OK"
+  - Name: LIMH
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ANALOG02.LIMH"
+  - Name: LIML
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ANALOG02.LIML"
+  - Name: GR_P
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ANALOG02.GR_P"
+  - Name: GR_N
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ANALOG02.GR_N"
+  - Name: X_SC_HI
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ANALOG02.X_SC_HI"
+  - Name: X_SC_LO
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ANALOG02.X_SC_LO"
+  - Name: X_HH
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ANALOG02.X_HH"
+  - Name: X_H
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ANALOG02.X_H"
+  - Name: X_L
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ANALOG02.X_L"
+  - Name: X_LL
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ANALOG02.X_LL"
+  - Name: X_SCAL
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ANALOG02.X_SCAL"
+  - Name: X_PIDV
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_ANALOG02.X_PIDV"
+- Name: PLC01_EXTBIMOT01
+  Type: AsysE_Mo
+  DataType: AsysE_Mo
+  Children:
+  - Name: EnableIn
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTBIMOT01.EnableIn"
+  - Name: EnableOut
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTBIMOT01.EnableOut"
+  - Name: PR
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTBIMOT01.PR"
+  - Name: SA
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTBIMOT01.SA"
+  - Name: MACH
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTBIMOT01.MACH"
+  - Name: OP1
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTBIMOT01.OP1"
+  - Name: OP2
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTBIMOT01.OP2"
+  - Name: STI1
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTBIMOT01.STI1"
+  - Name: STI2
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTBIMOT01.STI2"
+  - Name: DSE
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTBIMOT01.DSE"
+  - Name: ASTR
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTBIMOT01.ASTR"
+  - Name: DIR
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTBIMOT01.DIR"
+  - Name: INCR
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTBIMOT01.INCR"
+  - Name: AME
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTBIMOT01.AME"
+  - Name: RDY
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTBIMOT01.RDY"
+  - Name: OVL
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTBIMOT01.OVL"
+  - Name: RET1
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTBIMOT01.RET1"
+  - Name: RET2
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTBIMOT01.RET2"
+  - Name: LSTR1
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTBIMOT01.LSTR1"
+  - Name: LSTR2
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTBIMOT01.LSTR2"
+  - Name: LSTP
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTBIMOT01.LSTP"
+  - Name: AMS
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTBIMOT01.AMS"
+  - Name: SSW
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTBIMOT01.SSW"
+  - Name: TFA
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTBIMOT01.TFA"
+  - Name: DRDY
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTBIMOT01.DRDY"
+  - Name: MD
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTBIMOT01.MD"
+  - Name: STALL
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTBIMOT01.STALL"
+  - Name: EARTH
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTBIMOT01.EARTH"
+  - Name: UBAL
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTBIMOT01.UBAL"
+  - Name: GFA
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTBIMOT01.GFA"
+  - Name: GWA
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTBIMOT01.GWA"
+  - Name: BUSF
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTBIMOT01.BUSF"
+  - Name: DOPR
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTBIMOT01.DOPR"
+  - Name: DTEST
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTBIMOT01.DTEST"
+  - Name: SFS
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTBIMOT01.SFS"
+  - Name: SLS
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTBIMOT01.SLS"
+  - Name: ES
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTBIMOT01.ES"
+  - Name: ACK
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTBIMOT01.ACK"
+  - Name: AI1
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTBIMOT01.AI1"
+  - Name: AI2
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTBIMOT01.AI2"
+  - Name: AI3
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTBIMOT01.AI3"
+  - Name: SPSET
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTBIMOT01.SPSET"
+  - Name: CON1
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTBIMOT01.CON1"
+  - Name: CON2
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTBIMOT01.CON2"
+  - Name: LAMP1
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTBIMOT01.LAMP1"
+  - Name: LAMP2
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTBIMOT01.LAMP2"
+  - Name: SACK
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTBIMOT01.SACK"
+  - Name: RD1
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTBIMOT01.RD1"
+  - Name: RD2
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTBIMOT01.RD2"
+  - Name: RUN1
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTBIMOT01.RUN1"
+  - Name: RUN2
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTBIMOT01.RUN2"
+  - Name: OK
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTBIMOT01.OK"
+  - Name: Loc
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTBIMOT01.Loc"
+  - Name: RES
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTBIMOT01.RES"
+  - Name: TESTP
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTBIMOT01.TESTP"
+  - Name: ASTW
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTBIMOT01.ASTW"
+  - Name: AO1a
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTBIMOT01.AO1a"
+  - Name: AO1b
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTBIMOT01.AO1b"
+  - Name: AO2a
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTBIMOT01.AO2a"
+  - Name: AO2b
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTBIMOT01.AO2b"
+  - Name: AO3a
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTBIMOT01.AO3a"
+  - Name: AO3b
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTBIMOT01.AO3b"
+  - Name: CV
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTBIMOT01.CV"
+  - Name: CO
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTBIMOT01.CO"
+- Name: PLC01_EXTMOTGATE01
+  Type: AsysE_Ga
+  DataType: AsysE_Ga
+  Children:
+  - Name: EnableIn
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTMOTGATE01.EnableIn"
+  - Name: EnableOut
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTMOTGATE01.EnableOut"
+  - Name: PR
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTMOTGATE01.PR"
+  - Name: OP1
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTMOTGATE01.OP1"
+  - Name: OP2
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTMOTGATE01.OP2"
+  - Name: DSE
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTMOTGATE01.DSE"
+  - Name: PREQ1
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTMOTGATE01.PREQ1"
+  - Name: PREQ2
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTMOTGATE01.PREQ2"
+  - Name: INCR
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTMOTGATE01.INCR"
+  - Name: AME
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTMOTGATE01.AME"
+  - Name: RDY
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTMOTGATE01.RDY"
+  - Name: OVL
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTMOTGATE01.OVL"
+  - Name: RET1
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTMOTGATE01.RET1"
+  - Name: RET2
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTMOTGATE01.RET2"
+  - Name: LSP1
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTMOTGATE01.LSP1"
+  - Name: LSP2
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTMOTGATE01.LSP2"
+  - Name: LSA1
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTMOTGATE01.LSA1"
+  - Name: LSA2
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTMOTGATE01.LSA2"
+  - Name: TRQ1
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTMOTGATE01.TRQ1"
+  - Name: TRQ2
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTMOTGATE01.TRQ2"
+  - Name: LSTR1
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTMOTGATE01.LSTR1"
+  - Name: LSTR2
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTMOTGATE01.LSTR2"
+  - Name: LSTP
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTMOTGATE01.LSTP"
+  - Name: AMS
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTMOTGATE01.AMS"
+  - Name: SSW
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTMOTGATE01.SSW"
+  - Name: TFA
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTMOTGATE01.TFA"
+  - Name: DRDY
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTMOTGATE01.DRDY"
+  - Name: STALL
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTMOTGATE01.STALL"
+  - Name: EARTH
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTMOTGATE01.EARTH"
+  - Name: UBAL
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTMOTGATE01.UBAL"
+  - Name: GFA
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTMOTGATE01.GFA"
+  - Name: GWA
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTMOTGATE01.GWA"
+  - Name: BUSF
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTMOTGATE01.BUSF"
+  - Name: DOPR
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTMOTGATE01.DOPR"
+  - Name: DTEST
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTMOTGATE01.DTEST"
+  - Name: ACK
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTMOTGATE01.ACK"
+  - Name: AI1
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTMOTGATE01.AI1"
+  - Name: AI2
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTMOTGATE01.AI2"
+  - Name: AI3
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTMOTGATE01.AI3"
+  - Name: SP
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTMOTGATE01.SP"
+  - Name: POS
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTMOTGATE01.POS"
+  - Name: POS_OK
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTMOTGATE01.POS_OK"
+  - Name: CON1
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTMOTGATE01.CON1"
+  - Name: CON2
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTMOTGATE01.CON2"
+  - Name: LAMP1
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTMOTGATE01.LAMP1"
+  - Name: LAMP2
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTMOTGATE01.LAMP2"
+  - Name: SACK
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTMOTGATE01.SACK"
+  - Name: POS1
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTMOTGATE01.POS1"
+  - Name: POS2
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTMOTGATE01.POS2"
+  - Name: RUN1
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTMOTGATE01.RUN1"
+  - Name: RUN2
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTMOTGATE01.RUN2"
+  - Name: OK
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTMOTGATE01.OK"
+  - Name: Loc
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTMOTGATE01.Loc"
+  - Name: RES
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTMOTGATE01.RES"
+  - Name: TESTP
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTMOTGATE01.TESTP"
+  - Name: ASTW
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTMOTGATE01.ASTW"
+  - Name: AO1a
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTMOTGATE01.AO1a"
+  - Name: AO1b
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTMOTGATE01.AO1b"
+  - Name: AO2a
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTMOTGATE01.AO2a"
+  - Name: AO2b
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTMOTGATE01.AO2b"
+  - Name: AO3a
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTMOTGATE01.AO3a"
+  - Name: AO3b
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTMOTGATE01.AO3b"
+- Name: PLC01_EXTUNIMOT01
+  Type: AsysE_Mo
+  DataType: AsysE_Mo
+  Children:
+  - Name: EnableIn
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTUNIMOT01.EnableIn"
+  - Name: EnableOut
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTUNIMOT01.EnableOut"
+  - Name: PR
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTUNIMOT01.PR"
+  - Name: SA
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTUNIMOT01.SA"
+  - Name: MACH
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTUNIMOT01.MACH"
+  - Name: OP1
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTUNIMOT01.OP1"
+  - Name: OP2
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTUNIMOT01.OP2"
+  - Name: STI1
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTUNIMOT01.STI1"
+  - Name: STI2
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTUNIMOT01.STI2"
+  - Name: DSE
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTUNIMOT01.DSE"
+  - Name: ASTR
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTUNIMOT01.ASTR"
+  - Name: DIR
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTUNIMOT01.DIR"
+  - Name: INCR
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTUNIMOT01.INCR"
+  - Name: AME
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTUNIMOT01.AME"
+  - Name: RDY
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTUNIMOT01.RDY"
+  - Name: OVL
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTUNIMOT01.OVL"
+  - Name: RET1
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTUNIMOT01.RET1"
+  - Name: RET2
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTUNIMOT01.RET2"
+  - Name: LSTR1
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTUNIMOT01.LSTR1"
+  - Name: LSTR2
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTUNIMOT01.LSTR2"
+  - Name: LSTP
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTUNIMOT01.LSTP"
+  - Name: AMS
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTUNIMOT01.AMS"
+  - Name: SSW
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTUNIMOT01.SSW"
+  - Name: TFA
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTUNIMOT01.TFA"
+  - Name: DRDY
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTUNIMOT01.DRDY"
+  - Name: MD
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTUNIMOT01.MD"
+  - Name: STALL
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTUNIMOT01.STALL"
+  - Name: EARTH
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTUNIMOT01.EARTH"
+  - Name: UBAL
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTUNIMOT01.UBAL"
+  - Name: GFA
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTUNIMOT01.GFA"
+  - Name: GWA
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTUNIMOT01.GWA"
+  - Name: BUSF
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTUNIMOT01.BUSF"
+  - Name: DOPR
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTUNIMOT01.DOPR"
+  - Name: DTEST
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTUNIMOT01.DTEST"
+  - Name: SFS
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTUNIMOT01.SFS"
+  - Name: SLS
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTUNIMOT01.SLS"
+  - Name: ES
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTUNIMOT01.ES"
+  - Name: ACK
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTUNIMOT01.ACK"
+  - Name: AI1
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTUNIMOT01.AI1"
+  - Name: AI2
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTUNIMOT01.AI2"
+  - Name: AI3
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTUNIMOT01.AI3"
+  - Name: SPSET
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTUNIMOT01.SPSET"
+  - Name: CON1
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTUNIMOT01.CON1"
+  - Name: CON2
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTUNIMOT01.CON2"
+  - Name: LAMP1
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTUNIMOT01.LAMP1"
+  - Name: LAMP2
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTUNIMOT01.LAMP2"
+  - Name: SACK
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTUNIMOT01.SACK"
+  - Name: RD1
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTUNIMOT01.RD1"
+  - Name: RD2
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTUNIMOT01.RD2"
+  - Name: RUN1
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTUNIMOT01.RUN1"
+  - Name: RUN2
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTUNIMOT01.RUN2"
+  - Name: OK
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTUNIMOT01.OK"
+  - Name: Loc
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTUNIMOT01.Loc"
+  - Name: RES
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTUNIMOT01.RES"
+  - Name: TESTP
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTUNIMOT01.TESTP"
+  - Name: ASTW
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTUNIMOT01.ASTW"
+  - Name: AO1a
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTUNIMOT01.AO1a"
+  - Name: AO1b
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTUNIMOT01.AO1b"
+  - Name: AO2a
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTUNIMOT01.AO2a"
+  - Name: AO2b
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTUNIMOT01.AO2b"
+  - Name: AO3a
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTUNIMOT01.AO3a"
+  - Name: AO3b
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTUNIMOT01.AO3b"
+  - Name: CV
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTUNIMOT01.CV"
+  - Name: CO
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_EXTUNIMOT01.CO"
+- Name: PLC01_PID01
+  Type: AsysPID
+  DataType: AsysPID
+  Children:
+  - Name: EnableIn
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_PID01.EnableIn"
+  - Name: EnableOut
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_PID01.EnableOut"
+  - Name: PV
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_PID01.PV"
+  - Name: PV_OK
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_PID01.PV_OK"
+  - Name: PV_TRACK
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_PID01.PV_TRACK"
+  - Name: AUTO_EN
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_PID01.AUTO_EN"
+  - Name: AUTO_FR
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_PID01.AUTO_FR"
+  - Name: AUTO_HLC
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_PID01.AUTO_HLC"
+  - Name: MAN_FR
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_PID01.MAN_FR"
+  - Name: INV
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_PID01.INV"
+  - Name: EXT1_EN
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_PID01.EXT1_EN"
+  - Name: EXT1_FR
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_PID01.EXT1_FR"
+  - Name: EXT1_SP
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_PID01.EXT1_SP"
+  - Name: FR1_FR
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_PID01.FR1_FR"
+  - Name: FR1_SP
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_PID01.FR1_SP"
+  - Name: FR2_FR
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_PID01.FR2_FR"
+  - Name: FR2_SP
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_PID01.FR2_SP"
+  - Name: EXT2_FR
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_PID01.EXT2_FR"
+  - Name: EXT2_SP
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_PID01.EXT2_SP"
+  - Name: EXTPV_EN
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_PID01.EXTPV_EN"
+  - Name: EXTPV
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_PID01.EXTPV"
+  - Name: EXT_FAULT
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_PID01.EXT_FAULT"
+  - Name: PARA_SET1
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_PID01.PARA_SET1"
+  - Name: PARA_SET2
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_PID01.PARA_SET2"
+  - Name: PARA_SET3
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_PID01.PARA_SET3"
+  - Name: PARA_SET4
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_PID01.PARA_SET4"
+  - Name: CV
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_PID01.CV"
+  - Name: CO
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_PID01.CO"
+  - Name: AUTO
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_PID01.AUTO"
+  - Name: AINORM
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_PID01.AINORM"
+  - Name: SPNORM
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_PID01.SPNORM"
+- Name: PLC01_SELECT01
+  Type: AsysSel
+  DataType: AsysSel
+  Children:
+  - Name: EnableIn
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_SELECT01.EnableIn"
+  - Name: EnableOut
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_SELECT01.EnableOut"
+  - Name: ENAB
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_SELECT01.ENAB"
+  - Name: FCON
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_SELECT01.FCON"
+  - Name: FCOFF
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_SELECT01.FCOFF"
+  - Name: SEL
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_SELECT01.SEL"
+  - Name: SELONS
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_SELECT01.SELONS"
+  - Name: SELOFFS
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_SELECT01.SELOFFS"
+- Name: PLC01_SELECT02
+  Type: AsysSel
+  DataType: AsysSel
+  Children:
+  - Name: EnableIn
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_SELECT02.EnableIn"
+  - Name: EnableOut
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_SELECT02.EnableOut"
+  - Name: ENAB
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_SELECT02.ENAB"
+  - Name: FCON
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_SELECT02.FCON"
+  - Name: FCOFF
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_SELECT02.FCOFF"
+  - Name: SEL
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_SELECT02.SEL"
+  - Name: SELONS
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_SELECT02.SELONS"
+  - Name: SELOFFS
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_SELECT02.SELOFFS"
+- Name: PLC01_SELECT03
+  Type: AsysSel
+  DataType: AsysSel
+  Children:
+  - Name: EnableIn
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_SELECT03.EnableIn"
+  - Name: EnableOut
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_SELECT03.EnableOut"
+  - Name: ENAB
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_SELECT03.ENAB"
+  - Name: FCON
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_SELECT03.FCON"
+  - Name: FCOFF
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_SELECT03.FCOFF"
+  - Name: SEL
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_SELECT03.SEL"
+  - Name: SELONS
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_SELECT03.SELONS"
+  - Name: SELOFFS
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_SELECT03.SELOFFS"
+- Name: PLC01_SELECT04
+  Type: AsysSel
+  DataType: AsysSel
+  Children:
+  - Name: EnableIn
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_SELECT04.EnableIn"
+  - Name: EnableOut
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_SELECT04.EnableOut"
+  - Name: ENAB
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_SELECT04.ENAB"
+  - Name: FCON
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_SELECT04.FCON"
+  - Name: FCOFF
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_SELECT04.FCOFF"
+  - Name: SEL
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_SELECT04.SEL"
+  - Name: SELONS
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_SELECT04.SELONS"
+  - Name: SELOFFS
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_SELECT04.SELOFFS"
+- Name: PLC01_SELECT05
+  Type: AsysSel
+  DataType: AsysSel
+  Children:
+  - Name: EnableIn
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_SELECT05.EnableIn"
+  - Name: EnableOut
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_SELECT05.EnableOut"
+  - Name: ENAB
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_SELECT05.ENAB"
+  - Name: FCON
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_SELECT05.FCON"
+  - Name: FCOFF
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_SELECT05.FCOFF"
+  - Name: SEL
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_SELECT05.SEL"
+  - Name: SELONS
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_SELECT05.SELONS"
+  - Name: SELOFFS
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_SELECT05.SELOFFS"
+- Name: PLC01_TOTALIZER01
+  Type: AsysTotal
+  DataType: AsysTotal
+  Children:
+  - Name: EnableIn
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_TOTALIZER01.EnableIn"
+  - Name: EnableOut
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_TOTALIZER01.EnableOut"
+  - Name: In
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_TOTALIZER01.In"
+  - Name: RST
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_TOTALIZER01.RST"
+  - Name: COUNT
+    Type: RAEtherNetIPTag
+    DataType: Int32
+    Value: 0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_TOTALIZER01.COUNT"
+- Name: PLC01_TOTALIZER02
+  Type: AsysTotal
+  DataType: AsysTotal
+  Children:
+  - Name: EnableIn
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_TOTALIZER02.EnableIn"
+  - Name: EnableOut
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_TOTALIZER02.EnableOut"
+  - Name: In
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_TOTALIZER02.In"
+  - Name: RST
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_TOTALIZER02.RST"
+  - Name: COUNT
+    Type: RAEtherNetIPTag
+    DataType: Int32
+    Value: 0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_TOTALIZER02.COUNT"
+- Name: PLC01_TOTALIZER03
+  Type: AsysTotal
+  DataType: AsysTotal
+  Children:
+  - Name: EnableIn
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_TOTALIZER03.EnableIn"
+  - Name: EnableOut
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_TOTALIZER03.EnableOut"
+  - Name: In
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_TOTALIZER03.In"
+  - Name: RST
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_TOTALIZER03.RST"
+  - Name: COUNT
+    Type: RAEtherNetIPTag
+    DataType: Int32
+    Value: 0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_TOTALIZER03.COUNT"
+- Name: PLC01_TOTALIZER04
+  Type: AsysTotal
+  DataType: AsysTotal
+  Children:
+  - Name: EnableIn
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_TOTALIZER04.EnableIn"
+  - Name: EnableOut
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_TOTALIZER04.EnableOut"
+  - Name: In
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_TOTALIZER04.In"
+  - Name: RST
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_TOTALIZER04.RST"
+  - Name: COUNT
+    Type: RAEtherNetIPTag
+    DataType: Int32
+    Value: 0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_TOTALIZER04.COUNT"
+- Name: PLC01_VALVE01
+  Type: AsysValv
+  DataType: AsysValv
+  Children:
+  - Name: EnableIn
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_VALVE01.EnableIn"
+  - Name: EnableOut
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_VALVE01.EnableOut"
+  - Name: PR
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_VALVE01.PR"
+  - Name: OP1
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_VALVE01.OP1"
+  - Name: OP2
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_VALVE01.OP2"
+  - Name: DIR
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_VALVE01.DIR"
+  - Name: VAME
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_VALVE01.VAME"
+  - Name: VPSRDY
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_VALVE01.VPSRDY"
+  - Name: VLS1
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_VALVE01.VLS1"
+  - Name: VLS2
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_VALVE01.VLS2"
+  - Name: VLSTR1
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_VALVE01.VLSTR1"
+  - Name: VLSTR2
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_VALVE01.VLSTR2"
+  - Name: VAMS
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_VALVE01.VAMS"
+  - Name: VSSW
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_VALVE01.VSSW"
+  - Name: VCON1
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_VALVE01.VCON1"
+  - Name: VCON2
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_VALVE01.VCON2"
+  - Name: VLAMP1
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_VALVE01.VLAMP1"
+  - Name: VLAMP2
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_VALVE01.VLAMP2"
+  - Name: VPOS1
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_VALVE01.VPOS1"
+  - Name: VPOS2
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_VALVE01.VPOS2"
+  - Name: VOK
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_VALVE01.VOK"
+  - Name: VL
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_VALVE01.VL"
+- Name: PLC01_VALVE02
+  Type: AsysValv
+  DataType: AsysValv
+  Children:
+  - Name: EnableIn
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_VALVE02.EnableIn"
+  - Name: EnableOut
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_VALVE02.EnableOut"
+  - Name: PR
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_VALVE02.PR"
+  - Name: OP1
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_VALVE02.OP1"
+  - Name: OP2
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_VALVE02.OP2"
+  - Name: DIR
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_VALVE02.DIR"
+  - Name: VAME
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_VALVE02.VAME"
+  - Name: VPSRDY
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_VALVE02.VPSRDY"
+  - Name: VLS1
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_VALVE02.VLS1"
+  - Name: VLS2
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_VALVE02.VLS2"
+  - Name: VLSTR1
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_VALVE02.VLSTR1"
+  - Name: VLSTR2
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_VALVE02.VLSTR2"
+  - Name: VAMS
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_VALVE02.VAMS"
+  - Name: VSSW
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_VALVE02.VSSW"
+  - Name: VCON1
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_VALVE02.VCON1"
+  - Name: VCON2
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_VALVE02.VCON2"
+  - Name: VLAMP1
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_VALVE02.VLAMP1"
+  - Name: VLAMP2
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_VALVE02.VLAMP2"
+  - Name: VPOS1
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_VALVE02.VPOS1"
+  - Name: VPOS2
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_VALVE02.VPOS2"
+  - Name: VOK
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_VALVE02.VOK"
+  - Name: VL
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_VALVE02.VL"
+- Name: PLC01_VALVE03
+  Type: AsysValv
+  DataType: AsysValv
+  Children:
+  - Name: EnableIn
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_VALVE03.EnableIn"
+  - Name: EnableOut
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_VALVE03.EnableOut"
+  - Name: PR
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_VALVE03.PR"
+  - Name: OP1
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_VALVE03.OP1"
+  - Name: OP2
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_VALVE03.OP2"
+  - Name: DIR
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_VALVE03.DIR"
+  - Name: VAME
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_VALVE03.VAME"
+  - Name: VPSRDY
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_VALVE03.VPSRDY"
+  - Name: VLS1
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_VALVE03.VLS1"
+  - Name: VLS2
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_VALVE03.VLS2"
+  - Name: VLSTR1
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_VALVE03.VLSTR1"
+  - Name: VLSTR2
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_VALVE03.VLSTR2"
+  - Name: VAMS
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_VALVE03.VAMS"
+  - Name: VSSW
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_VALVE03.VSSW"
+  - Name: VCON1
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_VALVE03.VCON1"
+  - Name: VCON2
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_VALVE03.VCON2"
+  - Name: VLAMP1
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_VALVE03.VLAMP1"
+  - Name: VLAMP2
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_VALVE03.VLAMP2"
+  - Name: VPOS1
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_VALVE03.VPOS1"
+  - Name: VPOS2
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_VALVE03.VPOS2"
+  - Name: VOK
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_VALVE03.VOK"
+  - Name: VL
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE.PLC01_VALVE03.VL"
+- Name: _231ST101N22T04_FB
+  Type: AsysAI
+  DataType: AsysAI
+  Children:
+  - Name: EnableIn
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T04_FB.EnableIn"
+  - Name: EnableOut
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T04_FB.EnableOut"
+  - Name: PIW
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T04_FB.PIW"
+  - Name: PIW_NORM
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T04_FB.PIW_NORM"
+  - Name: U_RANGE
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T04_FB.U_RANGE"
+  - Name: O_RANGE
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T04_FB.O_RANGE"
+  - Name: SIG_FAULT
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T04_FB.SIG_FAULT"
+  - Name: ECS
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T04_FB.ECS"
+  - Name: AL_EN
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T04_FB.AL_EN"
+  - Name: ALMSG_EN
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T04_FB.ALMSG_EN"
+  - Name: ALMSG_GRP
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T04_FB.ALMSG_GRP"
+  - Name: AL_HH
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T04_FB.AL_HH"
+  - Name: AL_H
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T04_FB.AL_H"
+  - Name: AL_L
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T04_FB.AL_L"
+  - Name: AL_LL
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T04_FB.AL_LL"
+  - Name: AL_OK
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T04_FB.AL_OK"
+  - Name: LIMH
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T04_FB.LIMH"
+  - Name: LIML
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T04_FB.LIML"
+  - Name: GR_P
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T04_FB.GR_P"
+  - Name: GR_N
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T04_FB.GR_N"
+  - Name: X_SC_HI
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T04_FB.X_SC_HI"
+  - Name: X_SC_LO
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T04_FB.X_SC_LO"
+  - Name: X_HH
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T04_FB.X_HH"
+  - Name: X_H
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T04_FB.X_H"
+  - Name: X_L
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T04_FB.X_L"
+  - Name: X_LL
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T04_FB.X_LL"
+  - Name: X_SCAL
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T04_FB.X_SCAL"
+  - Name: X_PIDV
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T04_FB.X_PIDV"
+- Name: _231ST101N22T05_FB
+  Type: AsysAI
+  DataType: AsysAI
+  Children:
+  - Name: EnableIn
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T05_FB.EnableIn"
+  - Name: EnableOut
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T05_FB.EnableOut"
+  - Name: PIW
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T05_FB.PIW"
+  - Name: PIW_NORM
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T05_FB.PIW_NORM"
+  - Name: U_RANGE
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T05_FB.U_RANGE"
+  - Name: O_RANGE
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T05_FB.O_RANGE"
+  - Name: SIG_FAULT
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T05_FB.SIG_FAULT"
+  - Name: ECS
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T05_FB.ECS"
+  - Name: AL_EN
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T05_FB.AL_EN"
+  - Name: ALMSG_EN
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T05_FB.ALMSG_EN"
+  - Name: ALMSG_GRP
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T05_FB.ALMSG_GRP"
+  - Name: AL_HH
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T05_FB.AL_HH"
+  - Name: AL_H
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T05_FB.AL_H"
+  - Name: AL_L
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T05_FB.AL_L"
+  - Name: AL_LL
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T05_FB.AL_LL"
+  - Name: AL_OK
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T05_FB.AL_OK"
+  - Name: LIMH
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T05_FB.LIMH"
+  - Name: LIML
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T05_FB.LIML"
+  - Name: GR_P
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T05_FB.GR_P"
+  - Name: GR_N
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T05_FB.GR_N"
+  - Name: X_SC_HI
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T05_FB.X_SC_HI"
+  - Name: X_SC_LO
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T05_FB.X_SC_LO"
+  - Name: X_HH
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T05_FB.X_HH"
+  - Name: X_H
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T05_FB.X_H"
+  - Name: X_L
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T05_FB.X_L"
+  - Name: X_LL
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T05_FB.X_LL"
+  - Name: X_SCAL
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T05_FB.X_SCAL"
+  - Name: X_PIDV
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T05_FB.X_PIDV"
+- Name: _231ST101N22T06_FB
+  Type: AsysAI
+  DataType: AsysAI
+  Children:
+  - Name: EnableIn
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T06_FB.EnableIn"
+  - Name: EnableOut
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T06_FB.EnableOut"
+  - Name: PIW
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T06_FB.PIW"
+  - Name: PIW_NORM
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T06_FB.PIW_NORM"
+  - Name: U_RANGE
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T06_FB.U_RANGE"
+  - Name: O_RANGE
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T06_FB.O_RANGE"
+  - Name: SIG_FAULT
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T06_FB.SIG_FAULT"
+  - Name: ECS
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T06_FB.ECS"
+  - Name: AL_EN
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T06_FB.AL_EN"
+  - Name: ALMSG_EN
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T06_FB.ALMSG_EN"
+  - Name: ALMSG_GRP
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T06_FB.ALMSG_GRP"
+  - Name: AL_HH
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T06_FB.AL_HH"
+  - Name: AL_H
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T06_FB.AL_H"
+  - Name: AL_L
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T06_FB.AL_L"
+  - Name: AL_LL
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T06_FB.AL_LL"
+  - Name: AL_OK
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T06_FB.AL_OK"
+  - Name: LIMH
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T06_FB.LIMH"
+  - Name: LIML
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T06_FB.LIML"
+  - Name: GR_P
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T06_FB.GR_P"
+  - Name: GR_N
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T06_FB.GR_N"
+  - Name: X_SC_HI
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T06_FB.X_SC_HI"
+  - Name: X_SC_LO
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T06_FB.X_SC_LO"
+  - Name: X_HH
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T06_FB.X_HH"
+  - Name: X_H
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T06_FB.X_H"
+  - Name: X_L
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T06_FB.X_L"
+  - Name: X_LL
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T06_FB.X_LL"
+  - Name: X_SCAL
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T06_FB.X_SCAL"
+  - Name: X_PIDV
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Value: 0.0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Program:PLC01_SPARE._231ST101N22T06_FB.X_PIDV"

@@ -1,0 +1,3315 @@
+Name: PopOther
+Type: FolderType
+Children:
+- Name: InOut40
+  Id: g=f8a3f8f246df7e8402c28f033e39ff59
+  Supertype: X_Detail_In_Out1
+  ReferenceType: HasComponent
+  Children:
+  - Name: Background
+    Type: Rectangle
+    Children:
+    - Name: Rectangle2
+      Type: Rectangle
+      Children:
+      - Name: Label1
+        Type: Label
+      - Name: Label2
+        Type: Label
+      - Name: Label3
+        Type: Label
+      - Name: Label4
+        Type: Label
+        Children:
+        - Name: Text
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          ModellingRule: Optional
+          Value: {"LocaleId":"en-US","Text":"231CD100G04"}
+    - Name: Rectangle3
+      Type: Rectangle
+      Children:
+      - Name: Rectangle1
+        Type: Rectangle
+        Children:
+        - Name: Label1
+          Type: Label
+      - Name: Label1
+        Type: Label
+      - Name: Label2
+        Type: Label
+      - Name: Label3
+        Type: Label
+      - Name: Label4
+        Type: Label
+      - Name: Label5
+        Type: Label
+      - Name: Rectangle2
+        Type: Rectangle
+        Children:
+        - Name: FillColor
+          Type: BaseDataVariableType
+          DataType: Color
+          Value: "#ffffff"
+          Children:
+          - Name: ConditionalConverter1
+            Type: ConditionalConverter
+            Children:
+            - Name: Condition
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ReferenceType: HasSource
+              Value: false
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: ""
+      - Name: Rectangle3
+        Type: Rectangle
+        Children:
+        - Name: FillColor
+          Type: BaseDataVariableType
+          DataType: Color
+          Value: "#ffffff"
+          Children:
+          - Name: ConditionalConverter1
+            Type: ConditionalConverter
+            Children:
+            - Name: Condition
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ReferenceType: HasSource
+              Value: false
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: ""
+      - Name: Rectangle4
+        Type: Rectangle
+        Children:
+        - Name: FillColor
+          Type: BaseDataVariableType
+          DataType: Color
+          Value: "#ffffff"
+          Children:
+          - Name: ConditionalConverter1
+            Type: ConditionalConverter
+            Children:
+            - Name: Condition
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ReferenceType: HasSource
+              Value: false
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: ""
+      - Name: Rectangle5
+        Type: Rectangle
+        Children:
+        - Name: FillColor
+          Type: BaseDataVariableType
+          DataType: Color
+          Value: "#ffffff"
+          Children:
+          - Name: ConditionalConverter1
+            Type: ConditionalConverter
+            Children:
+            - Name: Condition
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ReferenceType: HasSource
+              Value: false
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: ""
+      - Name: Rectangle6
+        Type: Rectangle
+        Children:
+        - Name: FillColor
+          Type: BaseDataVariableType
+          DataType: Color
+          Value: "#ffffff"
+          Children:
+          - Name: ConditionalConverter1
+            Type: ConditionalConverter
+            Children:
+            - Name: Condition
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ReferenceType: HasSource
+              Value: false
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: ""
+      - Name: Label12
+        Type: Label
+      - Name: Label13
+        Type: Label
+      - Name: Label14
+        Type: Label
+      - Name: Label15
+        Type: Label
+      - Name: Label16
+        Type: Label
+    - Name: Rectangle5
+      Type: Rectangle
+      Children:
+      - Name: Rectangle1
+        Type: Rectangle
+        Children:
+        - Name: Label1
+          Type: Label
+      - Name: Label1
+        Type: Label
+      - Name: Label2
+        Type: Label
+      - Name: Label3
+        Type: Label
+      - Name: Label4
+        Type: Label
+      - Name: Label5
+        Type: Label
+      - Name: Rectangle2
+        Type: Rectangle
+        Children:
+        - Name: FillColor
+          Type: BaseDataVariableType
+          DataType: Color
+          Value: "#ffffff"
+          Children:
+          - Name: ConditionalConverter1
+            Type: ConditionalConverter
+            Children:
+            - Name: Condition
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ReferenceType: HasSource
+              Value: false
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: ""
+      - Name: Rectangle3
+        Type: Rectangle
+        Children:
+        - Name: FillColor
+          Type: BaseDataVariableType
+          DataType: Color
+          Value: "#ffffff"
+          Children:
+          - Name: ConditionalConverter1
+            Type: ConditionalConverter
+            Children:
+            - Name: Condition
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ReferenceType: HasSource
+              Value: false
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: ""
+      - Name: Rectangle4
+        Type: Rectangle
+        Children:
+        - Name: FillColor
+          Type: BaseDataVariableType
+          DataType: Color
+          Value: "#ffffff"
+          Children:
+          - Name: ConditionalConverter1
+            Type: ConditionalConverter
+            Children:
+            - Name: Condition
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ReferenceType: HasSource
+              Value: false
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: ""
+      - Name: Rectangle5
+        Type: Rectangle
+        Children:
+        - Name: FillColor
+          Type: BaseDataVariableType
+          DataType: Color
+          Value: "#ffffff"
+          Children:
+          - Name: ConditionalConverter1
+            Type: ConditionalConverter
+            Children:
+            - Name: Condition
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ReferenceType: HasSource
+              Value: false
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: ""
+      - Name: Rectangle6
+        Type: Rectangle
+        Children:
+        - Name: FillColor
+          Type: BaseDataVariableType
+          DataType: Color
+          Value: "#ffffff"
+          Children:
+          - Name: ConditionalConverter1
+            Type: ConditionalConverter
+            Children:
+            - Name: Condition
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ReferenceType: HasSource
+              Value: false
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: ""
+      - Name: Label12
+        Type: Label
+      - Name: Label13
+        Type: Label
+      - Name: Label14
+        Type: Label
+      - Name: Label15
+        Type: Label
+      - Name: Label16
+        Type: Label
+- Name: Parm40
+  Id: g=33d00cb6f584a1628bbc9230b17311f4
+  Supertype: X_Detail_Parm_1
+  ReferenceType: HasComponent
+  Children:
+  - Name: Background
+    Type: Rectangle
+    Children:
+    - Name: Rectangle5
+      Type: Rectangle
+      Children:
+      - Name: Rectangle1
+        Type: Rectangle
+        Children:
+        - Name: Label1
+          Type: Label
+      - Name: Label6
+        Type: TextBox
+        Children:
+        - Name: Text
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"LocaleId":"en-US","Text":"#####"}
+      - Name: Label9
+        Type: TextBox
+        Children:
+        - Name: Text
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"LocaleId":"en-US","Text":"#"}
+          Children:
+          - Name: StringFormatter2
+            Type: StringFormatter
+            Children:
+            - Name: Source0
+              Type: BaseDataVariableType
+              DataType: BaseDataType
+              ReferenceType: HasSource
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: "#####"
+      - Name: Label12
+        Type: Label
+      - Name: Label14
+        Type: Label
+      - Name: PolyLine3
+        Type: PolyLine
+      - Name: PolyLine4
+        Type: PolyLine
+      - Name: Label13
+        Type: Label
+      - Name: Label4
+        Type: Label
+      - Name: Label5
+        Type: Label
+      - Name: Label7
+        Type: Label
+      - Name: Label8
+        Type: Label
+      - Name: Label10
+        Type: Label
+      - Name: Label11
+        Type: Label
+      - Name: Label1
+        Type: TextBox
+        Children:
+        - Name: Text
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"LocaleId":"en-US","Text":"#"}
+          Children:
+          - Name: StringFormatter2
+            Type: StringFormatter
+            Children:
+            - Name: Source0
+              Type: BaseDataVariableType
+              DataType: BaseDataType
+              ReferenceType: HasSource
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: "#####"
+      - Name: Label2
+        Type: TextBox
+        Children:
+        - Name: Text
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"LocaleId":"en-US","Text":"#"}
+          Children:
+          - Name: StringFormatter2
+            Type: StringFormatter
+            Children:
+            - Name: Source0
+              Type: BaseDataVariableType
+              DataType: BaseDataType
+              ReferenceType: HasSource
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: "#####"
+      - Name: Label3
+        Type: TextBox
+        Children:
+        - Name: Text
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"LocaleId":"en-US","Text":"#"}
+          Children:
+          - Name: StringFormatter2
+            Type: StringFormatter
+            Children:
+            - Name: Source0
+              Type: BaseDataVariableType
+              DataType: BaseDataType
+              ReferenceType: HasSource
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: "#####"
+      - Name: Label15
+        Type: TextBox
+        Children:
+        - Name: Text
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"LocaleId":"en-US","Text":"#"}
+          Children:
+          - Name: StringFormatter2
+            Type: StringFormatter
+            Children:
+            - Name: Source0
+              Type: BaseDataVariableType
+              DataType: BaseDataType
+              ReferenceType: HasSource
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: "#####"
+      - Name: Label16
+        Type: TextBox
+        Children:
+        - Name: Text
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"LocaleId":"en-US","Text":"#"}
+          Children:
+          - Name: StringFormatter2
+            Type: StringFormatter
+            Children:
+            - Name: Source0
+              Type: BaseDataVariableType
+              DataType: BaseDataType
+              ReferenceType: HasSource
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: "#####"
+      - Name: Checkbox1
+        Type: CheckBox
+        Children:
+        - Name: Checked
+          Type: BaseDataVariableType
+          DataType: Boolean
+          Value: false
+      - Name: Checkbox2
+        Type: CheckBox
+        Children:
+        - Name: Checked
+          Type: BaseDataVariableType
+          DataType: Boolean
+          Value: false
+      - Name: Checkbox4
+        Type: CheckBox
+        Children:
+        - Name: Checked
+          Type: BaseDataVariableType
+          DataType: Boolean
+          Value: false
+      - Name: Checkbox5
+        Type: CheckBox
+        Children:
+        - Name: Checked
+          Type: BaseDataVariableType
+          DataType: Boolean
+          Value: false
+      - Name: Checkbox3
+        Type: CheckBox
+        Children:
+        - Name: Checked
+          Type: BaseDataVariableType
+          DataType: Boolean
+          Value: false
+- Name: Force40
+  Id: g=aefcc99503cc176f81b01f24cb0c6866
+  Supertype: X_Detail_Force1
+  ReferenceType: HasComponent
+  Children:
+  - Name: Background
+    Type: Rectangle
+    Children:
+    - Name: Rectangle5
+      Type: Rectangle
+      Children:
+      - Name: Rectangle1
+        Type: Rectangle
+        Children:
+        - Name: Label1
+          Type: Label
+      - Name: Label5
+        Type: Label
+      - Name: Label7
+        Type: Label
+      - Name: Label8
+        Type: Label
+      - Name: Label10
+        Type: Label
+      - Name: Label11
+        Type: Label
+      - Name: Checkbox1
+        Type: CheckBox
+        Children:
+        - Name: Checked
+          Type: BaseDataVariableType
+          DataType: Boolean
+          Value: false
+      - Name: Checkbox2
+        Type: CheckBox
+        Children:
+        - Name: Checked
+          Type: BaseDataVariableType
+          DataType: Boolean
+          Value: false
+      - Name: Checkbox3
+        Type: CheckBox
+        Children:
+        - Name: Checked
+          Type: BaseDataVariableType
+          DataType: Boolean
+          Value: false
+      - Name: Checkbox4
+        Type: CheckBox
+        Children:
+        - Name: Checked
+          Type: BaseDataVariableType
+          DataType: Boolean
+          Value: false
+      - Name: Checkbox5
+        Type: CheckBox
+        Children:
+        - Name: Checked
+          Type: BaseDataVariableType
+          DataType: Boolean
+          Value: false
+- Name: InOut41
+  Id: g=eb882eaef7b45145fb3f4851d25ac0e3
+  Supertype: X_Detail_In_Out1
+  ReferenceType: HasComponent
+  Children:
+  - Name: Background
+    Type: Rectangle
+    Children:
+    - Name: Rectangle2
+      Type: Rectangle
+      Children:
+      - Name: Label1
+        Type: Label
+      - Name: Label2
+        Type: Label
+      - Name: Label3
+        Type: Label
+      - Name: Label4
+        Type: Label
+        Children:
+        - Name: Text
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          ModellingRule: Optional
+          Value: {"LocaleId":"en-US","Text":"231CD100G04"}
+    - Name: Rectangle3
+      Type: Rectangle
+      Children:
+      - Name: Rectangle1
+        Type: Rectangle
+        Children:
+        - Name: Label1
+          Type: Label
+      - Name: Label1
+        Type: Label
+      - Name: Label2
+        Type: Label
+      - Name: Label3
+        Type: Label
+      - Name: Label4
+        Type: Label
+      - Name: Label5
+        Type: Label
+      - Name: Rectangle2
+        Type: Rectangle
+        Children:
+        - Name: FillColor
+          Type: BaseDataVariableType
+          DataType: Color
+          Value: "#ffffff"
+          Children:
+          - Name: ConditionalConverter1
+            Type: ConditionalConverter
+            Children:
+            - Name: Condition
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ReferenceType: HasSource
+              Value: false
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: ""
+      - Name: Rectangle3
+        Type: Rectangle
+        Children:
+        - Name: FillColor
+          Type: BaseDataVariableType
+          DataType: Color
+          Value: "#ffffff"
+          Children:
+          - Name: ConditionalConverter1
+            Type: ConditionalConverter
+            Children:
+            - Name: Condition
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ReferenceType: HasSource
+              Value: false
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: ""
+      - Name: Rectangle4
+        Type: Rectangle
+        Children:
+        - Name: FillColor
+          Type: BaseDataVariableType
+          DataType: Color
+          Value: "#ffffff"
+          Children:
+          - Name: ConditionalConverter1
+            Type: ConditionalConverter
+            Children:
+            - Name: Condition
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ReferenceType: HasSource
+              Value: false
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: ""
+      - Name: Rectangle5
+        Type: Rectangle
+        Children:
+        - Name: FillColor
+          Type: BaseDataVariableType
+          DataType: Color
+          Value: "#ffffff"
+          Children:
+          - Name: ConditionalConverter1
+            Type: ConditionalConverter
+            Children:
+            - Name: Condition
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ReferenceType: HasSource
+              Value: false
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: ""
+      - Name: Rectangle6
+        Type: Rectangle
+        Children:
+        - Name: FillColor
+          Type: BaseDataVariableType
+          DataType: Color
+          Value: "#ffffff"
+          Children:
+          - Name: ConditionalConverter1
+            Type: ConditionalConverter
+            Children:
+            - Name: Condition
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ReferenceType: HasSource
+              Value: false
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: ""
+      - Name: Label12
+        Type: Label
+      - Name: Label13
+        Type: Label
+      - Name: Label14
+        Type: Label
+      - Name: Label15
+        Type: Label
+      - Name: Label16
+        Type: Label
+    - Name: Rectangle5
+      Type: Rectangle
+      Children:
+      - Name: Rectangle1
+        Type: Rectangle
+        Children:
+        - Name: Label1
+          Type: Label
+      - Name: Label1
+        Type: Label
+      - Name: Label2
+        Type: Label
+      - Name: Label3
+        Type: Label
+      - Name: Label4
+        Type: Label
+      - Name: Label5
+        Type: Label
+      - Name: Rectangle2
+        Type: Rectangle
+        Children:
+        - Name: FillColor
+          Type: BaseDataVariableType
+          DataType: Color
+          Value: "#ffffff"
+          Children:
+          - Name: ConditionalConverter1
+            Type: ConditionalConverter
+            Children:
+            - Name: Condition
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ReferenceType: HasSource
+              Value: false
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: ""
+      - Name: Rectangle3
+        Type: Rectangle
+        Children:
+        - Name: FillColor
+          Type: BaseDataVariableType
+          DataType: Color
+          Value: "#ffffff"
+          Children:
+          - Name: ConditionalConverter1
+            Type: ConditionalConverter
+            Children:
+            - Name: Condition
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ReferenceType: HasSource
+              Value: false
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: ""
+      - Name: Rectangle4
+        Type: Rectangle
+        Children:
+        - Name: FillColor
+          Type: BaseDataVariableType
+          DataType: Color
+          Value: "#ffffff"
+          Children:
+          - Name: ConditionalConverter1
+            Type: ConditionalConverter
+            Children:
+            - Name: Condition
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ReferenceType: HasSource
+              Value: false
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: ""
+      - Name: Rectangle5
+        Type: Rectangle
+        Children:
+        - Name: FillColor
+          Type: BaseDataVariableType
+          DataType: Color
+          Value: "#ffffff"
+          Children:
+          - Name: ConditionalConverter1
+            Type: ConditionalConverter
+            Children:
+            - Name: Condition
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ReferenceType: HasSource
+              Value: false
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: ""
+      - Name: Rectangle6
+        Type: Rectangle
+        Children:
+        - Name: FillColor
+          Type: BaseDataVariableType
+          DataType: Color
+          Value: "#ffffff"
+          Children:
+          - Name: ConditionalConverter1
+            Type: ConditionalConverter
+            Children:
+            - Name: Condition
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ReferenceType: HasSource
+              Value: false
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: ""
+      - Name: Label12
+        Type: Label
+      - Name: Label13
+        Type: Label
+      - Name: Label14
+        Type: Label
+      - Name: Label15
+        Type: Label
+      - Name: Label16
+        Type: Label
+- Name: Parm41
+  Id: g=521c67d39488de30e3f870697e13e2ff
+  Supertype: X_Detail_Parm_1
+  ReferenceType: HasComponent
+  Children:
+  - Name: Background
+    Type: Rectangle
+    Children:
+    - Name: Rectangle5
+      Type: Rectangle
+      Children:
+      - Name: Rectangle1
+        Type: Rectangle
+        Children:
+        - Name: Label1
+          Type: Label
+      - Name: Label6
+        Type: TextBox
+        Children:
+        - Name: Text
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"LocaleId":"en-US","Text":"#####"}
+      - Name: Label9
+        Type: TextBox
+        Children:
+        - Name: Text
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"LocaleId":"en-US","Text":"#"}
+          Children:
+          - Name: StringFormatter2
+            Type: StringFormatter
+            Children:
+            - Name: Source0
+              Type: BaseDataVariableType
+              DataType: BaseDataType
+              ReferenceType: HasSource
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: "#####"
+      - Name: Label12
+        Type: Label
+      - Name: Label14
+        Type: Label
+      - Name: PolyLine3
+        Type: PolyLine
+      - Name: PolyLine4
+        Type: PolyLine
+      - Name: Label13
+        Type: Label
+      - Name: Label4
+        Type: Label
+      - Name: Label5
+        Type: Label
+      - Name: Label7
+        Type: Label
+      - Name: Label8
+        Type: Label
+      - Name: Label10
+        Type: Label
+      - Name: Label11
+        Type: Label
+      - Name: Label1
+        Type: TextBox
+        Children:
+        - Name: Text
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"LocaleId":"en-US","Text":"#"}
+          Children:
+          - Name: StringFormatter2
+            Type: StringFormatter
+            Children:
+            - Name: Source0
+              Type: BaseDataVariableType
+              DataType: BaseDataType
+              ReferenceType: HasSource
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: "#####"
+      - Name: Label2
+        Type: TextBox
+        Children:
+        - Name: Text
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"LocaleId":"en-US","Text":"#"}
+          Children:
+          - Name: StringFormatter2
+            Type: StringFormatter
+            Children:
+            - Name: Source0
+              Type: BaseDataVariableType
+              DataType: BaseDataType
+              ReferenceType: HasSource
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: "#####"
+      - Name: Label3
+        Type: TextBox
+        Children:
+        - Name: Text
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"LocaleId":"en-US","Text":"#"}
+          Children:
+          - Name: StringFormatter2
+            Type: StringFormatter
+            Children:
+            - Name: Source0
+              Type: BaseDataVariableType
+              DataType: BaseDataType
+              ReferenceType: HasSource
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: "#####"
+      - Name: Label15
+        Type: TextBox
+        Children:
+        - Name: Text
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"LocaleId":"en-US","Text":"#"}
+          Children:
+          - Name: StringFormatter2
+            Type: StringFormatter
+            Children:
+            - Name: Source0
+              Type: BaseDataVariableType
+              DataType: BaseDataType
+              ReferenceType: HasSource
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: "#####"
+      - Name: Label16
+        Type: TextBox
+        Children:
+        - Name: Text
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"LocaleId":"en-US","Text":"#"}
+          Children:
+          - Name: StringFormatter2
+            Type: StringFormatter
+            Children:
+            - Name: Source0
+              Type: BaseDataVariableType
+              DataType: BaseDataType
+              ReferenceType: HasSource
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: "#####"
+      - Name: Checkbox1
+        Type: CheckBox
+        Children:
+        - Name: Checked
+          Type: BaseDataVariableType
+          DataType: Boolean
+          Value: false
+      - Name: Checkbox2
+        Type: CheckBox
+        Children:
+        - Name: Checked
+          Type: BaseDataVariableType
+          DataType: Boolean
+          Value: false
+      - Name: Checkbox4
+        Type: CheckBox
+        Children:
+        - Name: Checked
+          Type: BaseDataVariableType
+          DataType: Boolean
+          Value: false
+      - Name: Checkbox5
+        Type: CheckBox
+        Children:
+        - Name: Checked
+          Type: BaseDataVariableType
+          DataType: Boolean
+          Value: false
+      - Name: Checkbox3
+        Type: CheckBox
+        Children:
+        - Name: Checked
+          Type: BaseDataVariableType
+          DataType: Boolean
+          Value: false
+- Name: Force41
+  Id: g=8c76ab4e304c3d4029b85c700331b36d
+  Supertype: X_Detail_Force1
+  ReferenceType: HasComponent
+  Children:
+  - Name: Background
+    Type: Rectangle
+    Children:
+    - Name: Rectangle5
+      Type: Rectangle
+      Children:
+      - Name: Rectangle1
+        Type: Rectangle
+        Children:
+        - Name: Label1
+          Type: Label
+      - Name: Label5
+        Type: Label
+      - Name: Label7
+        Type: Label
+      - Name: Label8
+        Type: Label
+      - Name: Label10
+        Type: Label
+      - Name: Label11
+        Type: Label
+      - Name: Checkbox1
+        Type: CheckBox
+        Children:
+        - Name: Checked
+          Type: BaseDataVariableType
+          DataType: Boolean
+          Value: false
+      - Name: Checkbox2
+        Type: CheckBox
+        Children:
+        - Name: Checked
+          Type: BaseDataVariableType
+          DataType: Boolean
+          Value: false
+      - Name: Checkbox3
+        Type: CheckBox
+        Children:
+        - Name: Checked
+          Type: BaseDataVariableType
+          DataType: Boolean
+          Value: false
+      - Name: Checkbox4
+        Type: CheckBox
+        Children:
+        - Name: Checked
+          Type: BaseDataVariableType
+          DataType: Boolean
+          Value: false
+      - Name: Checkbox5
+        Type: CheckBox
+        Children:
+        - Name: Checked
+          Type: BaseDataVariableType
+          DataType: Boolean
+          Value: false
+- Name: InOut42
+  Id: g=717e8fef51ef1bdc2524f418058dd5ae
+  Supertype: X_Detail_In_Out1
+  ReferenceType: HasComponent
+  Children:
+  - Name: Background
+    Type: Rectangle
+    Children:
+    - Name: Rectangle2
+      Type: Rectangle
+      Children:
+      - Name: Label1
+        Type: Label
+      - Name: Label2
+        Type: Label
+      - Name: Label3
+        Type: Label
+      - Name: Label4
+        Type: Label
+        Children:
+        - Name: Text
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          ModellingRule: Optional
+          Value: {"LocaleId":"en-US","Text":"231CD100G04"}
+    - Name: Rectangle3
+      Type: Rectangle
+      Children:
+      - Name: Rectangle1
+        Type: Rectangle
+        Children:
+        - Name: Label1
+          Type: Label
+      - Name: Label1
+        Type: Label
+      - Name: Label2
+        Type: Label
+      - Name: Label3
+        Type: Label
+      - Name: Label4
+        Type: Label
+      - Name: Label5
+        Type: Label
+      - Name: Rectangle2
+        Type: Rectangle
+        Children:
+        - Name: FillColor
+          Type: BaseDataVariableType
+          DataType: Color
+          Value: "#ffffff"
+          Children:
+          - Name: ConditionalConverter1
+            Type: ConditionalConverter
+            Children:
+            - Name: Condition
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ReferenceType: HasSource
+              Value: false
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: ""
+      - Name: Rectangle3
+        Type: Rectangle
+        Children:
+        - Name: FillColor
+          Type: BaseDataVariableType
+          DataType: Color
+          Value: "#ffffff"
+          Children:
+          - Name: ConditionalConverter1
+            Type: ConditionalConverter
+            Children:
+            - Name: Condition
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ReferenceType: HasSource
+              Value: false
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: ""
+      - Name: Rectangle4
+        Type: Rectangle
+        Children:
+        - Name: FillColor
+          Type: BaseDataVariableType
+          DataType: Color
+          Value: "#ffffff"
+          Children:
+          - Name: ConditionalConverter1
+            Type: ConditionalConverter
+            Children:
+            - Name: Condition
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ReferenceType: HasSource
+              Value: false
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: ""
+      - Name: Rectangle5
+        Type: Rectangle
+        Children:
+        - Name: FillColor
+          Type: BaseDataVariableType
+          DataType: Color
+          Value: "#ffffff"
+          Children:
+          - Name: ConditionalConverter1
+            Type: ConditionalConverter
+            Children:
+            - Name: Condition
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ReferenceType: HasSource
+              Value: false
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: ""
+      - Name: Rectangle6
+        Type: Rectangle
+        Children:
+        - Name: FillColor
+          Type: BaseDataVariableType
+          DataType: Color
+          Value: "#ffffff"
+          Children:
+          - Name: ConditionalConverter1
+            Type: ConditionalConverter
+            Children:
+            - Name: Condition
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ReferenceType: HasSource
+              Value: false
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: ""
+      - Name: Label12
+        Type: Label
+      - Name: Label13
+        Type: Label
+      - Name: Label14
+        Type: Label
+      - Name: Label15
+        Type: Label
+      - Name: Label16
+        Type: Label
+    - Name: Rectangle5
+      Type: Rectangle
+      Children:
+      - Name: Rectangle1
+        Type: Rectangle
+        Children:
+        - Name: Label1
+          Type: Label
+      - Name: Label1
+        Type: Label
+      - Name: Label2
+        Type: Label
+      - Name: Label3
+        Type: Label
+      - Name: Label4
+        Type: Label
+      - Name: Label5
+        Type: Label
+      - Name: Rectangle2
+        Type: Rectangle
+        Children:
+        - Name: FillColor
+          Type: BaseDataVariableType
+          DataType: Color
+          Value: "#ffffff"
+          Children:
+          - Name: ConditionalConverter1
+            Type: ConditionalConverter
+            Children:
+            - Name: Condition
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ReferenceType: HasSource
+              Value: false
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: ""
+      - Name: Rectangle3
+        Type: Rectangle
+        Children:
+        - Name: FillColor
+          Type: BaseDataVariableType
+          DataType: Color
+          Value: "#ffffff"
+          Children:
+          - Name: ConditionalConverter1
+            Type: ConditionalConverter
+            Children:
+            - Name: Condition
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ReferenceType: HasSource
+              Value: false
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: ""
+      - Name: Rectangle4
+        Type: Rectangle
+        Children:
+        - Name: FillColor
+          Type: BaseDataVariableType
+          DataType: Color
+          Value: "#ffffff"
+          Children:
+          - Name: ConditionalConverter1
+            Type: ConditionalConverter
+            Children:
+            - Name: Condition
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ReferenceType: HasSource
+              Value: false
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: ""
+      - Name: Rectangle5
+        Type: Rectangle
+        Children:
+        - Name: FillColor
+          Type: BaseDataVariableType
+          DataType: Color
+          Value: "#ffffff"
+          Children:
+          - Name: ConditionalConverter1
+            Type: ConditionalConverter
+            Children:
+            - Name: Condition
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ReferenceType: HasSource
+              Value: false
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: ""
+      - Name: Rectangle6
+        Type: Rectangle
+        Children:
+        - Name: FillColor
+          Type: BaseDataVariableType
+          DataType: Color
+          Value: "#ffffff"
+          Children:
+          - Name: ConditionalConverter1
+            Type: ConditionalConverter
+            Children:
+            - Name: Condition
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ReferenceType: HasSource
+              Value: false
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: ""
+      - Name: Label12
+        Type: Label
+      - Name: Label13
+        Type: Label
+      - Name: Label14
+        Type: Label
+      - Name: Label15
+        Type: Label
+      - Name: Label16
+        Type: Label
+- Name: Parm42
+  Id: g=5ce25dba160303707573cb5e3e6ae835
+  Supertype: X_Detail_Parm_1
+  ReferenceType: HasComponent
+  Children:
+  - Name: Background
+    Type: Rectangle
+    Children:
+    - Name: Rectangle5
+      Type: Rectangle
+      Children:
+      - Name: Rectangle1
+        Type: Rectangle
+        Children:
+        - Name: Label1
+          Type: Label
+      - Name: Label6
+        Type: TextBox
+        Children:
+        - Name: Text
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"LocaleId":"en-US","Text":"#####"}
+      - Name: Label9
+        Type: TextBox
+        Children:
+        - Name: Text
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"LocaleId":"en-US","Text":"#"}
+          Children:
+          - Name: StringFormatter2
+            Type: StringFormatter
+            Children:
+            - Name: Source0
+              Type: BaseDataVariableType
+              DataType: BaseDataType
+              ReferenceType: HasSource
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: "#####"
+      - Name: Label12
+        Type: Label
+      - Name: Label14
+        Type: Label
+      - Name: PolyLine3
+        Type: PolyLine
+      - Name: PolyLine4
+        Type: PolyLine
+      - Name: Label13
+        Type: Label
+      - Name: Label4
+        Type: Label
+      - Name: Label5
+        Type: Label
+      - Name: Label7
+        Type: Label
+      - Name: Label8
+        Type: Label
+      - Name: Label10
+        Type: Label
+      - Name: Label11
+        Type: Label
+      - Name: Label1
+        Type: TextBox
+        Children:
+        - Name: Text
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"LocaleId":"en-US","Text":"#"}
+          Children:
+          - Name: StringFormatter2
+            Type: StringFormatter
+            Children:
+            - Name: Source0
+              Type: BaseDataVariableType
+              DataType: BaseDataType
+              ReferenceType: HasSource
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: "#####"
+      - Name: Label2
+        Type: TextBox
+        Children:
+        - Name: Text
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"LocaleId":"en-US","Text":"#"}
+          Children:
+          - Name: StringFormatter2
+            Type: StringFormatter
+            Children:
+            - Name: Source0
+              Type: BaseDataVariableType
+              DataType: BaseDataType
+              ReferenceType: HasSource
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: "#####"
+      - Name: Label3
+        Type: TextBox
+        Children:
+        - Name: Text
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"LocaleId":"en-US","Text":"#"}
+          Children:
+          - Name: StringFormatter2
+            Type: StringFormatter
+            Children:
+            - Name: Source0
+              Type: BaseDataVariableType
+              DataType: BaseDataType
+              ReferenceType: HasSource
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: "#####"
+      - Name: Label15
+        Type: TextBox
+        Children:
+        - Name: Text
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"LocaleId":"en-US","Text":"#"}
+          Children:
+          - Name: StringFormatter2
+            Type: StringFormatter
+            Children:
+            - Name: Source0
+              Type: BaseDataVariableType
+              DataType: BaseDataType
+              ReferenceType: HasSource
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: "#####"
+      - Name: Label16
+        Type: TextBox
+        Children:
+        - Name: Text
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"LocaleId":"en-US","Text":"#"}
+          Children:
+          - Name: StringFormatter2
+            Type: StringFormatter
+            Children:
+            - Name: Source0
+              Type: BaseDataVariableType
+              DataType: BaseDataType
+              ReferenceType: HasSource
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: "#####"
+      - Name: Checkbox1
+        Type: CheckBox
+        Children:
+        - Name: Checked
+          Type: BaseDataVariableType
+          DataType: Boolean
+          Value: false
+      - Name: Checkbox2
+        Type: CheckBox
+        Children:
+        - Name: Checked
+          Type: BaseDataVariableType
+          DataType: Boolean
+          Value: false
+      - Name: Checkbox4
+        Type: CheckBox
+        Children:
+        - Name: Checked
+          Type: BaseDataVariableType
+          DataType: Boolean
+          Value: false
+      - Name: Checkbox5
+        Type: CheckBox
+        Children:
+        - Name: Checked
+          Type: BaseDataVariableType
+          DataType: Boolean
+          Value: false
+      - Name: Checkbox3
+        Type: CheckBox
+        Children:
+        - Name: Checked
+          Type: BaseDataVariableType
+          DataType: Boolean
+          Value: false
+- Name: Force42
+  Id: g=eaf126c47844133e93dc9e9d169d3180
+  Supertype: X_Detail_Force1
+  ReferenceType: HasComponent
+  Children:
+  - Name: Background
+    Type: Rectangle
+    Children:
+    - Name: Rectangle5
+      Type: Rectangle
+      Children:
+      - Name: Rectangle1
+        Type: Rectangle
+        Children:
+        - Name: Label1
+          Type: Label
+      - Name: Label5
+        Type: Label
+      - Name: Label7
+        Type: Label
+      - Name: Label8
+        Type: Label
+      - Name: Label10
+        Type: Label
+      - Name: Label11
+        Type: Label
+      - Name: Checkbox1
+        Type: CheckBox
+        Children:
+        - Name: Checked
+          Type: BaseDataVariableType
+          DataType: Boolean
+          Value: false
+      - Name: Checkbox2
+        Type: CheckBox
+        Children:
+        - Name: Checked
+          Type: BaseDataVariableType
+          DataType: Boolean
+          Value: false
+      - Name: Checkbox3
+        Type: CheckBox
+        Children:
+        - Name: Checked
+          Type: BaseDataVariableType
+          DataType: Boolean
+          Value: false
+      - Name: Checkbox4
+        Type: CheckBox
+        Children:
+        - Name: Checked
+          Type: BaseDataVariableType
+          DataType: Boolean
+          Value: false
+      - Name: Checkbox5
+        Type: CheckBox
+        Children:
+        - Name: Checked
+          Type: BaseDataVariableType
+          DataType: Boolean
+          Value: false
+- Name: InOut43
+  Id: g=1be4b55316e4d7ae3cd3d1d04856f261
+  Supertype: X_Detail_In_Out1
+  ReferenceType: HasComponent
+  Children:
+  - Name: Background
+    Type: Rectangle
+    Children:
+    - Name: Rectangle2
+      Type: Rectangle
+      Children:
+      - Name: Label1
+        Type: Label
+      - Name: Label2
+        Type: Label
+      - Name: Label3
+        Type: Label
+      - Name: Label4
+        Type: Label
+        Children:
+        - Name: Text
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          ModellingRule: Optional
+          Value: {"LocaleId":"en-US","Text":"231CD100G04"}
+    - Name: Rectangle3
+      Type: Rectangle
+      Children:
+      - Name: Rectangle1
+        Type: Rectangle
+        Children:
+        - Name: Label1
+          Type: Label
+      - Name: Label1
+        Type: Label
+      - Name: Label2
+        Type: Label
+      - Name: Label3
+        Type: Label
+      - Name: Label4
+        Type: Label
+      - Name: Label5
+        Type: Label
+      - Name: Rectangle2
+        Type: Rectangle
+        Children:
+        - Name: FillColor
+          Type: BaseDataVariableType
+          DataType: Color
+          Value: "#ffffff"
+          Children:
+          - Name: ConditionalConverter1
+            Type: ConditionalConverter
+            Children:
+            - Name: Condition
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ReferenceType: HasSource
+              Value: false
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: ""
+      - Name: Rectangle3
+        Type: Rectangle
+        Children:
+        - Name: FillColor
+          Type: BaseDataVariableType
+          DataType: Color
+          Value: "#ffffff"
+          Children:
+          - Name: ConditionalConverter1
+            Type: ConditionalConverter
+            Children:
+            - Name: Condition
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ReferenceType: HasSource
+              Value: false
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: ""
+      - Name: Rectangle4
+        Type: Rectangle
+        Children:
+        - Name: FillColor
+          Type: BaseDataVariableType
+          DataType: Color
+          Value: "#ffffff"
+          Children:
+          - Name: ConditionalConverter1
+            Type: ConditionalConverter
+            Children:
+            - Name: Condition
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ReferenceType: HasSource
+              Value: false
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: ""
+      - Name: Rectangle5
+        Type: Rectangle
+        Children:
+        - Name: FillColor
+          Type: BaseDataVariableType
+          DataType: Color
+          Value: "#ffffff"
+          Children:
+          - Name: ConditionalConverter1
+            Type: ConditionalConverter
+            Children:
+            - Name: Condition
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ReferenceType: HasSource
+              Value: false
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: ""
+      - Name: Rectangle6
+        Type: Rectangle
+        Children:
+        - Name: FillColor
+          Type: BaseDataVariableType
+          DataType: Color
+          Value: "#ffffff"
+          Children:
+          - Name: ConditionalConverter1
+            Type: ConditionalConverter
+            Children:
+            - Name: Condition
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ReferenceType: HasSource
+              Value: false
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: ""
+      - Name: Label12
+        Type: Label
+      - Name: Label13
+        Type: Label
+      - Name: Label14
+        Type: Label
+      - Name: Label15
+        Type: Label
+      - Name: Label16
+        Type: Label
+    - Name: Rectangle5
+      Type: Rectangle
+      Children:
+      - Name: Rectangle1
+        Type: Rectangle
+        Children:
+        - Name: Label1
+          Type: Label
+      - Name: Label1
+        Type: Label
+      - Name: Label2
+        Type: Label
+      - Name: Label3
+        Type: Label
+      - Name: Label4
+        Type: Label
+      - Name: Label5
+        Type: Label
+      - Name: Rectangle2
+        Type: Rectangle
+        Children:
+        - Name: FillColor
+          Type: BaseDataVariableType
+          DataType: Color
+          Value: "#ffffff"
+          Children:
+          - Name: ConditionalConverter1
+            Type: ConditionalConverter
+            Children:
+            - Name: Condition
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ReferenceType: HasSource
+              Value: false
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: ""
+      - Name: Rectangle3
+        Type: Rectangle
+        Children:
+        - Name: FillColor
+          Type: BaseDataVariableType
+          DataType: Color
+          Value: "#ffffff"
+          Children:
+          - Name: ConditionalConverter1
+            Type: ConditionalConverter
+            Children:
+            - Name: Condition
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ReferenceType: HasSource
+              Value: false
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: ""
+      - Name: Rectangle4
+        Type: Rectangle
+        Children:
+        - Name: FillColor
+          Type: BaseDataVariableType
+          DataType: Color
+          Value: "#ffffff"
+          Children:
+          - Name: ConditionalConverter1
+            Type: ConditionalConverter
+            Children:
+            - Name: Condition
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ReferenceType: HasSource
+              Value: false
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: ""
+      - Name: Rectangle5
+        Type: Rectangle
+        Children:
+        - Name: FillColor
+          Type: BaseDataVariableType
+          DataType: Color
+          Value: "#ffffff"
+          Children:
+          - Name: ConditionalConverter1
+            Type: ConditionalConverter
+            Children:
+            - Name: Condition
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ReferenceType: HasSource
+              Value: false
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: ""
+      - Name: Rectangle6
+        Type: Rectangle
+        Children:
+        - Name: FillColor
+          Type: BaseDataVariableType
+          DataType: Color
+          Value: "#ffffff"
+          Children:
+          - Name: ConditionalConverter1
+            Type: ConditionalConverter
+            Children:
+            - Name: Condition
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ReferenceType: HasSource
+              Value: false
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: ""
+      - Name: Label12
+        Type: Label
+      - Name: Label13
+        Type: Label
+      - Name: Label14
+        Type: Label
+      - Name: Label15
+        Type: Label
+      - Name: Label16
+        Type: Label
+- Name: Parm43
+  Id: g=47de53117e38e00d9a97c58af7899445
+  Supertype: X_Detail_Parm_1
+  ReferenceType: HasComponent
+  Children:
+  - Name: Background
+    Type: Rectangle
+    Children:
+    - Name: Rectangle5
+      Type: Rectangle
+      Children:
+      - Name: Rectangle1
+        Type: Rectangle
+        Children:
+        - Name: Label1
+          Type: Label
+      - Name: Label6
+        Type: TextBox
+        Children:
+        - Name: Text
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"LocaleId":"en-US","Text":"#####"}
+      - Name: Label9
+        Type: TextBox
+        Children:
+        - Name: Text
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"LocaleId":"en-US","Text":"#"}
+          Children:
+          - Name: StringFormatter2
+            Type: StringFormatter
+            Children:
+            - Name: Source0
+              Type: BaseDataVariableType
+              DataType: BaseDataType
+              ReferenceType: HasSource
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: "#####"
+      - Name: Label12
+        Type: Label
+      - Name: Label14
+        Type: Label
+      - Name: PolyLine3
+        Type: PolyLine
+      - Name: PolyLine4
+        Type: PolyLine
+      - Name: Label13
+        Type: Label
+      - Name: Label4
+        Type: Label
+      - Name: Label5
+        Type: Label
+      - Name: Label7
+        Type: Label
+      - Name: Label8
+        Type: Label
+      - Name: Label10
+        Type: Label
+      - Name: Label11
+        Type: Label
+      - Name: Label1
+        Type: TextBox
+        Children:
+        - Name: Text
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"LocaleId":"en-US","Text":"#"}
+          Children:
+          - Name: StringFormatter2
+            Type: StringFormatter
+            Children:
+            - Name: Source0
+              Type: BaseDataVariableType
+              DataType: BaseDataType
+              ReferenceType: HasSource
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: "#####"
+      - Name: Label2
+        Type: TextBox
+        Children:
+        - Name: Text
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"LocaleId":"en-US","Text":"#"}
+          Children:
+          - Name: StringFormatter2
+            Type: StringFormatter
+            Children:
+            - Name: Source0
+              Type: BaseDataVariableType
+              DataType: BaseDataType
+              ReferenceType: HasSource
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: "#####"
+      - Name: Label3
+        Type: TextBox
+        Children:
+        - Name: Text
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"LocaleId":"en-US","Text":"#"}
+          Children:
+          - Name: StringFormatter2
+            Type: StringFormatter
+            Children:
+            - Name: Source0
+              Type: BaseDataVariableType
+              DataType: BaseDataType
+              ReferenceType: HasSource
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: "#####"
+      - Name: Label15
+        Type: TextBox
+        Children:
+        - Name: Text
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"LocaleId":"en-US","Text":"#"}
+          Children:
+          - Name: StringFormatter2
+            Type: StringFormatter
+            Children:
+            - Name: Source0
+              Type: BaseDataVariableType
+              DataType: BaseDataType
+              ReferenceType: HasSource
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: "#####"
+      - Name: Label16
+        Type: TextBox
+        Children:
+        - Name: Text
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"LocaleId":"en-US","Text":"#"}
+          Children:
+          - Name: StringFormatter2
+            Type: StringFormatter
+            Children:
+            - Name: Source0
+              Type: BaseDataVariableType
+              DataType: BaseDataType
+              ReferenceType: HasSource
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: "#####"
+      - Name: Checkbox1
+        Type: CheckBox
+        Children:
+        - Name: Checked
+          Type: BaseDataVariableType
+          DataType: Boolean
+          Value: false
+      - Name: Checkbox2
+        Type: CheckBox
+        Children:
+        - Name: Checked
+          Type: BaseDataVariableType
+          DataType: Boolean
+          Value: false
+      - Name: Checkbox4
+        Type: CheckBox
+        Children:
+        - Name: Checked
+          Type: BaseDataVariableType
+          DataType: Boolean
+          Value: false
+      - Name: Checkbox5
+        Type: CheckBox
+        Children:
+        - Name: Checked
+          Type: BaseDataVariableType
+          DataType: Boolean
+          Value: false
+      - Name: Checkbox3
+        Type: CheckBox
+        Children:
+        - Name: Checked
+          Type: BaseDataVariableType
+          DataType: Boolean
+          Value: false
+- Name: Force43
+  Id: g=924f2a90dac8730155785eb5352fcc2f
+  Supertype: X_Detail_Force1
+  ReferenceType: HasComponent
+  Children:
+  - Name: Background
+    Type: Rectangle
+    Children:
+    - Name: Rectangle5
+      Type: Rectangle
+      Children:
+      - Name: Rectangle1
+        Type: Rectangle
+        Children:
+        - Name: Label1
+          Type: Label
+      - Name: Label5
+        Type: Label
+      - Name: Label7
+        Type: Label
+      - Name: Label8
+        Type: Label
+      - Name: Label10
+        Type: Label
+      - Name: Label11
+        Type: Label
+      - Name: Checkbox1
+        Type: CheckBox
+        Children:
+        - Name: Checked
+          Type: BaseDataVariableType
+          DataType: Boolean
+          Value: false
+      - Name: Checkbox2
+        Type: CheckBox
+        Children:
+        - Name: Checked
+          Type: BaseDataVariableType
+          DataType: Boolean
+          Value: false
+      - Name: Checkbox3
+        Type: CheckBox
+        Children:
+        - Name: Checked
+          Type: BaseDataVariableType
+          DataType: Boolean
+          Value: false
+      - Name: Checkbox4
+        Type: CheckBox
+        Children:
+        - Name: Checked
+          Type: BaseDataVariableType
+          DataType: Boolean
+          Value: false
+      - Name: Checkbox5
+        Type: CheckBox
+        Children:
+        - Name: Checked
+          Type: BaseDataVariableType
+          DataType: Boolean
+          Value: false
+- Name: InOut44
+  Id: g=89c782225fc2a262c5c1939a7d62abf2
+  Supertype: X_Detail_In_Out1
+  ReferenceType: HasComponent
+  Children:
+  - Name: Background
+    Type: Rectangle
+    Children:
+    - Name: Rectangle2
+      Type: Rectangle
+      Children:
+      - Name: Label1
+        Type: Label
+      - Name: Label2
+        Type: Label
+      - Name: Label3
+        Type: Label
+      - Name: Label4
+        Type: Label
+        Children:
+        - Name: Text
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          ModellingRule: Optional
+          Value: {"LocaleId":"en-US","Text":"231CD100G04"}
+    - Name: Rectangle3
+      Type: Rectangle
+      Children:
+      - Name: Rectangle1
+        Type: Rectangle
+        Children:
+        - Name: Label1
+          Type: Label
+      - Name: Label1
+        Type: Label
+      - Name: Label2
+        Type: Label
+      - Name: Label3
+        Type: Label
+      - Name: Label4
+        Type: Label
+      - Name: Label5
+        Type: Label
+      - Name: Rectangle2
+        Type: Rectangle
+        Children:
+        - Name: FillColor
+          Type: BaseDataVariableType
+          DataType: Color
+          Value: "#ffffff"
+          Children:
+          - Name: ConditionalConverter1
+            Type: ConditionalConverter
+            Children:
+            - Name: Condition
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ReferenceType: HasSource
+              Value: false
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: ""
+      - Name: Rectangle3
+        Type: Rectangle
+        Children:
+        - Name: FillColor
+          Type: BaseDataVariableType
+          DataType: Color
+          Value: "#ffffff"
+          Children:
+          - Name: ConditionalConverter1
+            Type: ConditionalConverter
+            Children:
+            - Name: Condition
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ReferenceType: HasSource
+              Value: false
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: ""
+      - Name: Rectangle4
+        Type: Rectangle
+        Children:
+        - Name: FillColor
+          Type: BaseDataVariableType
+          DataType: Color
+          Value: "#ffffff"
+          Children:
+          - Name: ConditionalConverter1
+            Type: ConditionalConverter
+            Children:
+            - Name: Condition
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ReferenceType: HasSource
+              Value: false
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: ""
+      - Name: Rectangle5
+        Type: Rectangle
+        Children:
+        - Name: FillColor
+          Type: BaseDataVariableType
+          DataType: Color
+          Value: "#ffffff"
+          Children:
+          - Name: ConditionalConverter1
+            Type: ConditionalConverter
+            Children:
+            - Name: Condition
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ReferenceType: HasSource
+              Value: false
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: ""
+      - Name: Rectangle6
+        Type: Rectangle
+        Children:
+        - Name: FillColor
+          Type: BaseDataVariableType
+          DataType: Color
+          Value: "#ffffff"
+          Children:
+          - Name: ConditionalConverter1
+            Type: ConditionalConverter
+            Children:
+            - Name: Condition
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ReferenceType: HasSource
+              Value: false
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: ""
+      - Name: Label12
+        Type: Label
+      - Name: Label13
+        Type: Label
+      - Name: Label14
+        Type: Label
+      - Name: Label15
+        Type: Label
+      - Name: Label16
+        Type: Label
+    - Name: Rectangle5
+      Type: Rectangle
+      Children:
+      - Name: Rectangle1
+        Type: Rectangle
+        Children:
+        - Name: Label1
+          Type: Label
+      - Name: Label1
+        Type: Label
+      - Name: Label2
+        Type: Label
+      - Name: Label3
+        Type: Label
+      - Name: Label4
+        Type: Label
+      - Name: Label5
+        Type: Label
+      - Name: Rectangle2
+        Type: Rectangle
+        Children:
+        - Name: FillColor
+          Type: BaseDataVariableType
+          DataType: Color
+          Value: "#ffffff"
+          Children:
+          - Name: ConditionalConverter1
+            Type: ConditionalConverter
+            Children:
+            - Name: Condition
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ReferenceType: HasSource
+              Value: false
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: ""
+      - Name: Rectangle3
+        Type: Rectangle
+        Children:
+        - Name: FillColor
+          Type: BaseDataVariableType
+          DataType: Color
+          Value: "#ffffff"
+          Children:
+          - Name: ConditionalConverter1
+            Type: ConditionalConverter
+            Children:
+            - Name: Condition
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ReferenceType: HasSource
+              Value: false
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: ""
+      - Name: Rectangle4
+        Type: Rectangle
+        Children:
+        - Name: FillColor
+          Type: BaseDataVariableType
+          DataType: Color
+          Value: "#ffffff"
+          Children:
+          - Name: ConditionalConverter1
+            Type: ConditionalConverter
+            Children:
+            - Name: Condition
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ReferenceType: HasSource
+              Value: false
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: ""
+      - Name: Rectangle5
+        Type: Rectangle
+        Children:
+        - Name: FillColor
+          Type: BaseDataVariableType
+          DataType: Color
+          Value: "#ffffff"
+          Children:
+          - Name: ConditionalConverter1
+            Type: ConditionalConverter
+            Children:
+            - Name: Condition
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ReferenceType: HasSource
+              Value: false
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: ""
+      - Name: Rectangle6
+        Type: Rectangle
+        Children:
+        - Name: FillColor
+          Type: BaseDataVariableType
+          DataType: Color
+          Value: "#ffffff"
+          Children:
+          - Name: ConditionalConverter1
+            Type: ConditionalConverter
+            Children:
+            - Name: Condition
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ReferenceType: HasSource
+              Value: false
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: ""
+      - Name: Label12
+        Type: Label
+      - Name: Label13
+        Type: Label
+      - Name: Label14
+        Type: Label
+      - Name: Label15
+        Type: Label
+      - Name: Label16
+        Type: Label
+- Name: Parm44
+  Id: g=73cb72d1f5024a6140c76a20d4bf2a67
+  Supertype: X_Detail_Parm_1
+  ReferenceType: HasComponent
+  Children:
+  - Name: Background
+    Type: Rectangle
+    Children:
+    - Name: Rectangle5
+      Type: Rectangle
+      Children:
+      - Name: Rectangle1
+        Type: Rectangle
+        Children:
+        - Name: Label1
+          Type: Label
+      - Name: Label6
+        Type: TextBox
+        Children:
+        - Name: Text
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"LocaleId":"en-US","Text":"#####"}
+      - Name: Label9
+        Type: TextBox
+        Children:
+        - Name: Text
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"LocaleId":"en-US","Text":"#"}
+          Children:
+          - Name: StringFormatter2
+            Type: StringFormatter
+            Children:
+            - Name: Source0
+              Type: BaseDataVariableType
+              DataType: BaseDataType
+              ReferenceType: HasSource
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: "#####"
+      - Name: Label12
+        Type: Label
+      - Name: Label14
+        Type: Label
+      - Name: PolyLine3
+        Type: PolyLine
+      - Name: PolyLine4
+        Type: PolyLine
+      - Name: Label13
+        Type: Label
+      - Name: Label4
+        Type: Label
+      - Name: Label5
+        Type: Label
+      - Name: Label7
+        Type: Label
+      - Name: Label8
+        Type: Label
+      - Name: Label10
+        Type: Label
+      - Name: Label11
+        Type: Label
+      - Name: Label1
+        Type: TextBox
+        Children:
+        - Name: Text
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"LocaleId":"en-US","Text":"#"}
+          Children:
+          - Name: StringFormatter2
+            Type: StringFormatter
+            Children:
+            - Name: Source0
+              Type: BaseDataVariableType
+              DataType: BaseDataType
+              ReferenceType: HasSource
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: "#####"
+      - Name: Label2
+        Type: TextBox
+        Children:
+        - Name: Text
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"LocaleId":"en-US","Text":"#"}
+          Children:
+          - Name: StringFormatter2
+            Type: StringFormatter
+            Children:
+            - Name: Source0
+              Type: BaseDataVariableType
+              DataType: BaseDataType
+              ReferenceType: HasSource
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: "#####"
+      - Name: Label3
+        Type: TextBox
+        Children:
+        - Name: Text
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"LocaleId":"en-US","Text":"#"}
+          Children:
+          - Name: StringFormatter2
+            Type: StringFormatter
+            Children:
+            - Name: Source0
+              Type: BaseDataVariableType
+              DataType: BaseDataType
+              ReferenceType: HasSource
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: "#####"
+      - Name: Label15
+        Type: TextBox
+        Children:
+        - Name: Text
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"LocaleId":"en-US","Text":"#"}
+          Children:
+          - Name: StringFormatter2
+            Type: StringFormatter
+            Children:
+            - Name: Source0
+              Type: BaseDataVariableType
+              DataType: BaseDataType
+              ReferenceType: HasSource
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: "#####"
+      - Name: Label16
+        Type: TextBox
+        Children:
+        - Name: Text
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"LocaleId":"en-US","Text":"#"}
+          Children:
+          - Name: StringFormatter2
+            Type: StringFormatter
+            Children:
+            - Name: Source0
+              Type: BaseDataVariableType
+              DataType: BaseDataType
+              ReferenceType: HasSource
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: "#####"
+      - Name: Checkbox1
+        Type: CheckBox
+        Children:
+        - Name: Checked
+          Type: BaseDataVariableType
+          DataType: Boolean
+          Value: false
+      - Name: Checkbox2
+        Type: CheckBox
+        Children:
+        - Name: Checked
+          Type: BaseDataVariableType
+          DataType: Boolean
+          Value: false
+      - Name: Checkbox4
+        Type: CheckBox
+        Children:
+        - Name: Checked
+          Type: BaseDataVariableType
+          DataType: Boolean
+          Value: false
+      - Name: Checkbox5
+        Type: CheckBox
+        Children:
+        - Name: Checked
+          Type: BaseDataVariableType
+          DataType: Boolean
+          Value: false
+      - Name: Checkbox3
+        Type: CheckBox
+        Children:
+        - Name: Checked
+          Type: BaseDataVariableType
+          DataType: Boolean
+          Value: false
+- Name: Force44
+  Id: g=4d7d3339ad75d8e4f710e57167c70229
+  Supertype: X_Detail_Force1
+  ReferenceType: HasComponent
+  Children:
+  - Name: Background
+    Type: Rectangle
+    Children:
+    - Name: Rectangle5
+      Type: Rectangle
+      Children:
+      - Name: Rectangle1
+        Type: Rectangle
+        Children:
+        - Name: Label1
+          Type: Label
+      - Name: Label5
+        Type: Label
+      - Name: Label7
+        Type: Label
+      - Name: Label8
+        Type: Label
+      - Name: Label10
+        Type: Label
+      - Name: Label11
+        Type: Label
+      - Name: Checkbox1
+        Type: CheckBox
+        Children:
+        - Name: Checked
+          Type: BaseDataVariableType
+          DataType: Boolean
+          Value: false
+      - Name: Checkbox2
+        Type: CheckBox
+        Children:
+        - Name: Checked
+          Type: BaseDataVariableType
+          DataType: Boolean
+          Value: false
+      - Name: Checkbox3
+        Type: CheckBox
+        Children:
+        - Name: Checked
+          Type: BaseDataVariableType
+          DataType: Boolean
+          Value: false
+      - Name: Checkbox4
+        Type: CheckBox
+        Children:
+        - Name: Checked
+          Type: BaseDataVariableType
+          DataType: Boolean
+          Value: false
+      - Name: Checkbox5
+        Type: CheckBox
+        Children:
+        - Name: Checked
+          Type: BaseDataVariableType
+          DataType: Boolean
+          Value: false
+- Name: InOut45
+  Id: g=c18e7eadd38e432718106abccf828144
+  Supertype: X_Detail_In_Out1
+  ReferenceType: HasComponent
+  Children:
+  - Name: Background
+    Type: Rectangle
+    Children:
+    - Name: Rectangle2
+      Type: Rectangle
+      Children:
+      - Name: Label1
+        Type: Label
+      - Name: Label2
+        Type: Label
+      - Name: Label3
+        Type: Label
+      - Name: Label4
+        Type: Label
+        Children:
+        - Name: Text
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          ModellingRule: Optional
+          Value: {"LocaleId":"en-US","Text":"231CD100G04"}
+    - Name: Rectangle3
+      Type: Rectangle
+      Children:
+      - Name: Rectangle1
+        Type: Rectangle
+        Children:
+        - Name: Label1
+          Type: Label
+      - Name: Label1
+        Type: Label
+      - Name: Label2
+        Type: Label
+      - Name: Label3
+        Type: Label
+      - Name: Label4
+        Type: Label
+      - Name: Label5
+        Type: Label
+      - Name: Rectangle2
+        Type: Rectangle
+        Children:
+        - Name: FillColor
+          Type: BaseDataVariableType
+          DataType: Color
+          Value: "#ffffff"
+          Children:
+          - Name: ConditionalConverter1
+            Type: ConditionalConverter
+            Children:
+            - Name: Condition
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ReferenceType: HasSource
+              Value: false
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: ""
+      - Name: Rectangle3
+        Type: Rectangle
+        Children:
+        - Name: FillColor
+          Type: BaseDataVariableType
+          DataType: Color
+          Value: "#ffffff"
+          Children:
+          - Name: ConditionalConverter1
+            Type: ConditionalConverter
+            Children:
+            - Name: Condition
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ReferenceType: HasSource
+              Value: false
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: ""
+      - Name: Rectangle4
+        Type: Rectangle
+        Children:
+        - Name: FillColor
+          Type: BaseDataVariableType
+          DataType: Color
+          Value: "#ffffff"
+          Children:
+          - Name: ConditionalConverter1
+            Type: ConditionalConverter
+            Children:
+            - Name: Condition
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ReferenceType: HasSource
+              Value: false
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: ""
+      - Name: Rectangle5
+        Type: Rectangle
+        Children:
+        - Name: FillColor
+          Type: BaseDataVariableType
+          DataType: Color
+          Value: "#ffffff"
+          Children:
+          - Name: ConditionalConverter1
+            Type: ConditionalConverter
+            Children:
+            - Name: Condition
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ReferenceType: HasSource
+              Value: false
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: ""
+      - Name: Rectangle6
+        Type: Rectangle
+        Children:
+        - Name: FillColor
+          Type: BaseDataVariableType
+          DataType: Color
+          Value: "#ffffff"
+          Children:
+          - Name: ConditionalConverter1
+            Type: ConditionalConverter
+            Children:
+            - Name: Condition
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ReferenceType: HasSource
+              Value: false
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: ""
+      - Name: Label12
+        Type: Label
+      - Name: Label13
+        Type: Label
+      - Name: Label14
+        Type: Label
+      - Name: Label15
+        Type: Label
+      - Name: Label16
+        Type: Label
+    - Name: Rectangle5
+      Type: Rectangle
+      Children:
+      - Name: Rectangle1
+        Type: Rectangle
+        Children:
+        - Name: Label1
+          Type: Label
+      - Name: Label1
+        Type: Label
+      - Name: Label2
+        Type: Label
+      - Name: Label3
+        Type: Label
+      - Name: Label4
+        Type: Label
+      - Name: Label5
+        Type: Label
+      - Name: Rectangle2
+        Type: Rectangle
+        Children:
+        - Name: FillColor
+          Type: BaseDataVariableType
+          DataType: Color
+          Value: "#ffffff"
+          Children:
+          - Name: ConditionalConverter1
+            Type: ConditionalConverter
+            Children:
+            - Name: Condition
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ReferenceType: HasSource
+              Value: false
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: ""
+      - Name: Rectangle3
+        Type: Rectangle
+        Children:
+        - Name: FillColor
+          Type: BaseDataVariableType
+          DataType: Color
+          Value: "#ffffff"
+          Children:
+          - Name: ConditionalConverter1
+            Type: ConditionalConverter
+            Children:
+            - Name: Condition
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ReferenceType: HasSource
+              Value: false
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: ""
+      - Name: Rectangle4
+        Type: Rectangle
+        Children:
+        - Name: FillColor
+          Type: BaseDataVariableType
+          DataType: Color
+          Value: "#ffffff"
+          Children:
+          - Name: ConditionalConverter1
+            Type: ConditionalConverter
+            Children:
+            - Name: Condition
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ReferenceType: HasSource
+              Value: false
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: ""
+      - Name: Rectangle5
+        Type: Rectangle
+        Children:
+        - Name: FillColor
+          Type: BaseDataVariableType
+          DataType: Color
+          Value: "#ffffff"
+          Children:
+          - Name: ConditionalConverter1
+            Type: ConditionalConverter
+            Children:
+            - Name: Condition
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ReferenceType: HasSource
+              Value: false
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: ""
+      - Name: Rectangle6
+        Type: Rectangle
+        Children:
+        - Name: FillColor
+          Type: BaseDataVariableType
+          DataType: Color
+          Value: "#ffffff"
+          Children:
+          - Name: ConditionalConverter1
+            Type: ConditionalConverter
+            Children:
+            - Name: Condition
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ReferenceType: HasSource
+              Value: false
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: ""
+      - Name: Label12
+        Type: Label
+      - Name: Label13
+        Type: Label
+      - Name: Label14
+        Type: Label
+      - Name: Label15
+        Type: Label
+      - Name: Label16
+        Type: Label
+- Name: Parm45
+  Id: g=40035e2fcd4829646694e0e70b9617d8
+  Supertype: X_Detail_Parm_1
+  ReferenceType: HasComponent
+  Children:
+  - Name: Background
+    Type: Rectangle
+    Children:
+    - Name: Rectangle5
+      Type: Rectangle
+      Children:
+      - Name: Rectangle1
+        Type: Rectangle
+        Children:
+        - Name: Label1
+          Type: Label
+      - Name: Label6
+        Type: TextBox
+        Children:
+        - Name: Text
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"LocaleId":"en-US","Text":"#####"}
+      - Name: Label9
+        Type: TextBox
+        Children:
+        - Name: Text
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"LocaleId":"en-US","Text":"#"}
+          Children:
+          - Name: StringFormatter2
+            Type: StringFormatter
+            Children:
+            - Name: Source0
+              Type: BaseDataVariableType
+              DataType: BaseDataType
+              ReferenceType: HasSource
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: "#####"
+      - Name: Label12
+        Type: Label
+      - Name: Label14
+        Type: Label
+      - Name: PolyLine3
+        Type: PolyLine
+      - Name: PolyLine4
+        Type: PolyLine
+      - Name: Label13
+        Type: Label
+      - Name: Label4
+        Type: Label
+      - Name: Label5
+        Type: Label
+      - Name: Label7
+        Type: Label
+      - Name: Label8
+        Type: Label
+      - Name: Label10
+        Type: Label
+      - Name: Label11
+        Type: Label
+      - Name: Label1
+        Type: TextBox
+        Children:
+        - Name: Text
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"LocaleId":"en-US","Text":"#"}
+          Children:
+          - Name: StringFormatter2
+            Type: StringFormatter
+            Children:
+            - Name: Source0
+              Type: BaseDataVariableType
+              DataType: BaseDataType
+              ReferenceType: HasSource
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: "#####"
+      - Name: Label2
+        Type: TextBox
+        Children:
+        - Name: Text
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"LocaleId":"en-US","Text":"#"}
+          Children:
+          - Name: StringFormatter2
+            Type: StringFormatter
+            Children:
+            - Name: Source0
+              Type: BaseDataVariableType
+              DataType: BaseDataType
+              ReferenceType: HasSource
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: "#####"
+      - Name: Label3
+        Type: TextBox
+        Children:
+        - Name: Text
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"LocaleId":"en-US","Text":"#"}
+          Children:
+          - Name: StringFormatter2
+            Type: StringFormatter
+            Children:
+            - Name: Source0
+              Type: BaseDataVariableType
+              DataType: BaseDataType
+              ReferenceType: HasSource
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: "#####"
+      - Name: Label15
+        Type: TextBox
+        Children:
+        - Name: Text
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"LocaleId":"en-US","Text":"#"}
+          Children:
+          - Name: StringFormatter2
+            Type: StringFormatter
+            Children:
+            - Name: Source0
+              Type: BaseDataVariableType
+              DataType: BaseDataType
+              ReferenceType: HasSource
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: "#####"
+      - Name: Label16
+        Type: TextBox
+        Children:
+        - Name: Text
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"LocaleId":"en-US","Text":"#"}
+          Children:
+          - Name: StringFormatter2
+            Type: StringFormatter
+            Children:
+            - Name: Source0
+              Type: BaseDataVariableType
+              DataType: BaseDataType
+              ReferenceType: HasSource
+              Children:
+              - Name: DynamicLink
+                Type: DynamicLink
+                DataType: NodePath
+                Value: "#####"
+      - Name: Checkbox1
+        Type: CheckBox
+        Children:
+        - Name: Checked
+          Type: BaseDataVariableType
+          DataType: Boolean
+          Value: false
+      - Name: Checkbox2
+        Type: CheckBox
+        Children:
+        - Name: Checked
+          Type: BaseDataVariableType
+          DataType: Boolean
+          Value: false
+      - Name: Checkbox4
+        Type: CheckBox
+        Children:
+        - Name: Checked
+          Type: BaseDataVariableType
+          DataType: Boolean
+          Value: false
+      - Name: Checkbox5
+        Type: CheckBox
+        Children:
+        - Name: Checked
+          Type: BaseDataVariableType
+          DataType: Boolean
+          Value: false
+      - Name: Checkbox3
+        Type: CheckBox
+        Children:
+        - Name: Checked
+          Type: BaseDataVariableType
+          DataType: Boolean
+          Value: false
+- Name: Force45
+  Id: g=ad97a75985bb8ab24d731b9f1b5cb808
+  Supertype: X_Detail_Force1
+  ReferenceType: HasComponent
+  Children:
+  - Name: Background
+    Type: Rectangle
+    Children:
+    - Name: Rectangle5
+      Type: Rectangle
+      Children:
+      - Name: Rectangle1
+        Type: Rectangle
+        Children:
+        - Name: Label1
+          Type: Label
+      - Name: Label5
+        Type: Label
+      - Name: Label7
+        Type: Label
+      - Name: Label8
+        Type: Label
+      - Name: Label10
+        Type: Label
+      - Name: Label11
+        Type: Label
+      - Name: Checkbox1
+        Type: CheckBox
+        Children:
+        - Name: Checked
+          Type: BaseDataVariableType
+          DataType: Boolean
+          Value: false
+      - Name: Checkbox2
+        Type: CheckBox
+        Children:
+        - Name: Checked
+          Type: BaseDataVariableType
+          DataType: Boolean
+          Value: false
+      - Name: Checkbox3
+        Type: CheckBox
+        Children:
+        - Name: Checked
+          Type: BaseDataVariableType
+          DataType: Boolean
+          Value: false
+      - Name: Checkbox4
+        Type: CheckBox
+        Children:
+        - Name: Checked
+          Type: BaseDataVariableType
+          DataType: Boolean
+          Value: false
+      - Name: Checkbox5
+        Type: CheckBox
+        Children:
+        - Name: Checked
+          Type: BaseDataVariableType
+          DataType: Boolean
+          Value: false

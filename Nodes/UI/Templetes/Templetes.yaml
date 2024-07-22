@@ -1,0 +1,8 @@
+Name: Templetes
+Type: FolderType
+Children:
+- File: PopUp/PopUp.yaml
+- File: PopUploader/PopUploader.yaml
+- File: M_Buttons/M_Buttons.yaml
+- File: Other3/Other3.yaml
+- File: '231ST101M16_SKIRT_LIFTING_1_OVERVIEW_-_BOOM/231ST101M16_SKIRT_LIFTING_1_OVERVIEW_-_BOOM.yaml'

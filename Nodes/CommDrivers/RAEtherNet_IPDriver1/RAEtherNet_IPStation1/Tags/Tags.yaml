@@ -1,0 +1,15 @@
+Name: Tags
+Type: FolderType
+Children:
+- File: Controller_Tags/Controller_Tags.yaml
+- File: Program_MasterProgram/Program_MasterProgram.yaml
+- File: Program_PLC01_SPARE/Program_PLC01_SPARE.yaml
+- File: Program__231CD100G01/Program__231CD100G01.yaml
+- File: Program__231CD100G02/Program__231CD100G02.yaml
+- File: Program__231CD100G03/Program__231CD100G03.yaml
+- File: Program__231CD100G04/Program__231CD100G04.yaml
+- File: Program__231CD100G05/Program__231CD100G05.yaml
+- File: Program__231CD100G06/Program__231CD100G06.yaml
+- File: Program__231CD100G07/Program__231CD100G07.yaml
+- File: Program__231CD100G08/Program__231CD100G08.yaml
+- File: Program__231CD100G09/Program__231CD100G09.yaml

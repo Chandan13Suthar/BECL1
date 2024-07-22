@@ -1,0 +1,23 @@
+Name: TagImporter
+Type: RAEtherNetIPTagImporter
+OwnerId: ns=2;g=680c494bfa2d97222753e6ee73f98bc7
+Children:
+- Name: IgnoredPLCItems
+  Type: BaseDataVariableType
+  DataType: BaseDataType
+  ValueRank: OneDimension
+  ArrayDimensions: [0]
+- Name: IgnoredHMIItems
+  Type: BaseDataVariableType
+  DataType: NodeId
+  ValueRank: OneDimension
+  ArrayDimensions: [0]
+  Value: []
+- Name: FilePath
+  Type: BaseDataVariableType
+  DataType: AbsoluteResourceUri
+  Value: "file:///D:/GSCEL FINAL PLC/GSCEL 29-05-2024/_231ST101_upload_plc1_30_05_24.ACD"
+- Name: Mode
+  Type: BaseDataVariableType
+  DataType: FetchModes
+  Value: 0
