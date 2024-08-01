@@ -77,29 +77,104 @@ Children:
     DataType: Color
     Value: "#ffffff"
     Children:
-    - Name: ConditionalConverter1
-      Type: ConditionalConverter
+    - Name: KeyValueConverter1
+      Type: ValueMapConverter
       Children:
-      - Name: Condition
+      - Name: Source
         Type: BaseDataVariableType
-        DataType: Boolean
+        DataType: BaseDataType
         ReferenceType: HasSource
-        Value: false
         Children:
         - Name: DynamicLink
           Type: DynamicLink
           DataType: NodePath
           Value: ""
-      - Name: TrueValue
-        Type: BaseDataVariableType
-        DataType: Color
-        ReferenceType: HasParameter
-        ModellingRule: Optional
-        Value: "#3ef51f"
-      - Name: FalseValue
-        Type: BaseDataVariableType
-        DataType: Color
-        ReferenceType: HasParameter
-        ModellingRule: Optional
-        Value: "#ffa500"
+      - Name: Pairs
+        Type: BaseObjectType
+        ModellingRule: None
+        Children:
+        - Name: Pair
+          Type: ValueMapPair
+          ModellingRule: None
+          Children:
+          - Name: Key
+            Type: BaseDataVariableType
+            DataType: UInt32
+            ModellingRule: None
+            Value: 0
+          - Name: Value
+            Type: BaseDataVariableType
+            DataType: Color
+            ModellingRule: None
+            Value: "#ffffff"
+        - Name: Pair1
+          Type: ValueMapPair
+          ModellingRule: None
+          Children:
+          - Name: Key
+            Type: BaseDataVariableType
+            DataType: UInt32
+            ModellingRule: None
+            Value: 1
+          - Name: Value
+            Type: BaseDataVariableType
+            DataType: Color
+            ModellingRule: None
+            Value: "#3ef51f"
+        - Name: Pair2
+          Type: ValueMapPair
+          ModellingRule: None
+          Children:
+          - Name: Key
+            Type: BaseDataVariableType
+            DataType: UInt32
+            ModellingRule: None
+            Value: 2
+          - Name: Value
+            Type: BaseDataVariableType
+            DataType: Color
+            ModellingRule: None
+            Value: "#ff0000"
+        - Name: Pair3
+          Type: ValueMapPair
+          ModellingRule: None
+          Children:
+          - Name: Key
+            Type: BaseDataVariableType
+            DataType: UInt32
+            ModellingRule: None
+            Value: 3
+          - Name: Value
+            Type: BaseDataVariableType
+            DataType: Color
+            ModellingRule: None
+            Value: "#ffff00"
+        - Name: Pair4
+          Type: ValueMapPair
+          ModellingRule: None
+          Children:
+          - Name: Key
+            Type: BaseDataVariableType
+            DataType: UInt32
+            ModellingRule: None
+            Value: 4
+          - Name: Value
+            Type: BaseDataVariableType
+            DataType: Color
+            ModellingRule: None
+            Value: "#f98498"
+        - Name: Pair5
+          Type: ValueMapPair
+          ModellingRule: None
+          Children:
+          - Name: Key
+            Type: BaseDataVariableType
+            DataType: UInt32
+            ModellingRule: None
+            Value: 5
+          - Name: Value
+            Type: BaseDataVariableType
+            DataType: Color
+            ModellingRule: None
+            Value: "#0000ff"
 - File: Interlocks/Interlocks.yaml

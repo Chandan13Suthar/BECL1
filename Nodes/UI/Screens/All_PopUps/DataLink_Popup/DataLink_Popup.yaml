@@ -8190,7 +8190,7 @@ Children:
                 - Name: DynamicLink
                   Type: DynamicLink
                   DataType: NodePath
-                  Value: "/Objects/BECL1/CommDrivers/RAEtherNet_IPDriver1/RAEtherNet_IPStation1/Tags/Controller Tags/STA_231CD100G02"
+                  Value: ""
           - Name: TextColor
             Type: BaseDataVariableType
             DataType: Color
@@ -9001,7 +9001,7 @@ Children:
                 - Name: DynamicLink
                   Type: DynamicLink
                   DataType: NodePath
-                  Value: "/Objects/BECL1/CommDrivers/RAEtherNet_IPDriver1/RAEtherNet_IPStation1/Tags/Controller Tags/STA_231CD100G03"
+                  Value: ""
           - Name: TextColor
             Type: BaseDataVariableType
             DataType: Color
@@ -9807,7 +9807,7 @@ Children:
                 - Name: DynamicLink
                   Type: DynamicLink
                   DataType: NodePath
-                  Value: "/Objects/BECL1/CommDrivers/RAEtherNet_IPDriver1/RAEtherNet_IPStation1/Tags/Controller Tags/STA_231CD100G04"
+                  Value: ""
           - Name: TextColor
             Type: BaseDataVariableType
             DataType: Color
@@ -10618,7 +10618,7 @@ Children:
                 - Name: DynamicLink
                   Type: DynamicLink
                   DataType: NodePath
-                  Value: "/Objects/BECL1/CommDrivers/RAEtherNet_IPDriver1/RAEtherNet_IPStation1/Tags/Controller Tags/STA_231CD100G05"
+                  Value: ""
           - Name: TextColor
             Type: BaseDataVariableType
             DataType: Color
@@ -11429,7 +11429,7 @@ Children:
                 - Name: DynamicLink
                   Type: DynamicLink
                   DataType: NodePath
-                  Value: "/Objects/BECL1/CommDrivers/RAEtherNet_IPDriver1/RAEtherNet_IPStation1/Tags/Controller Tags/STA_231CD100G06"
+                  Value: ""
           - Name: TextColor
             Type: BaseDataVariableType
             DataType: Color
@@ -12235,7 +12235,7 @@ Children:
                 - Name: DynamicLink
                   Type: DynamicLink
                   DataType: NodePath
-                  Value: "/Objects/BECL1/CommDrivers/RAEtherNet_IPDriver1/RAEtherNet_IPStation1/Tags/Controller Tags/STA_231CD100G07"
+                  Value: ""
           - Name: TextColor
             Type: BaseDataVariableType
             DataType: Color
@@ -13041,7 +13041,7 @@ Children:
                 - Name: DynamicLink
                   Type: DynamicLink
                   DataType: NodePath
-                  Value: "/Objects/BECL1/CommDrivers/RAEtherNet_IPDriver1/RAEtherNet_IPStation1/Tags/Controller Tags/STA_231CD100G08"
+                  Value: ""
           - Name: TextColor
             Type: BaseDataVariableType
             DataType: Color
@@ -36372,7 +36372,7 @@ Children:
                     Type: BaseDataVariableType
                     DataType: NodeId
                     Description: {"NamespaceIndex":3,"TextId":"OpenDialogDialogDescription"}
-                    Value: "/Objects/BECL1/UI/Screens/All PopUps/Interlocks/M33"
+                    Value: "/Objects/BECL1/UI/Screens/All PopUps/Interlocks/M7"
                   - Name: AliasNode
                     Type: BaseDataVariableType
                     DataType: NodeId
